@@ -1,0 +1,21 @@
+{
+  "name": "zx-ventures-coding-challenge",
+  "version": "1.0.0",
+  "description": "Data extract pulled from Northwind Sample Database. See `data` folder for query and csv `data/customer-orders.csv`",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "John McNulty",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "event-stream": "^4.0.1",
+    "mssql": "^5.1.0",
+    "mv": "^2.1.1",
+    "winston": "^3.2.1"
+  }
+}

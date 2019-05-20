@@ -1,0 +1,2162 @@
+﻿OrderId,CustomerId,ProductName,Quantity
+10200,DUMMY,Extras,3
+10200,DUMMY,Misc,4
+10200,DUMMY,Stuff,1
+10200,DUMMY,Things,2
+10210,NOONE,Chips,6
+10210,NOONE,Drinks,5
+10248,VINET,Mozzarella di Giovanni,5
+10248,VINET,Queso Cabrales,12
+10248,VINET,Singaporean Hokkien Fried Mee,10
+10249,TOMSP,Manjimup Dried Apples,40
+10249,TOMSP,Tofu,9
+10250,HANAR,Jack's New England Clam Chowder,10
+10250,HANAR,Louisiana Fiery Hot Pepper Sauce,15
+10250,HANAR,Manjimup Dried Apples,35
+10251,VICTE,Gustaf's Knäckebröd,6
+10251,VICTE,Louisiana Fiery Hot Pepper Sauce,20
+10251,VICTE,Ravioli Angelo,15
+10252,SUPRD,Camembert Pierrot,40
+10252,SUPRD,Geitost,25
+10252,SUPRD,Sir Rodney's Marmalade,40
+10253,HANAR,Chartreuse verte,42
+10253,HANAR,Gorgonzola Telino,20
+10253,HANAR,Maxilaku,40
+10254,CHOPS,Guaraná Fantástica,15
+10254,CHOPS,Longlife Tofu,21
+10254,CHOPS,Pâté chinois,21
+10255,RICSU,Chang,20
+10255,RICSU,Inlagd Sill,25
+10255,RICSU,Pavlova,35
+10255,RICSU,Raclette Courdavault,30
+10256,WELLI,Original Frankfurter grüne Soße,12
+10256,WELLI,Perth Pasties,15
+10257,HILAA,Chartreuse verte,6
+10257,HILAA,Original Frankfurter grüne Soße,15
+10257,HILAA,Schoggi Schokolade,25
+10258,ERNSH,Chang,50
+10258,ERNSH,Chef Anton's Gumbo Mix,65
+10258,ERNSH,Mascarpone Fabioli,6
+10259,CENTC,Gravad lax,1
+10259,CENTC,Sir Rodney's Scones,10
+10260,OTTIK,Jack's New England Clam Chowder,16
+10260,OTTIK,Outback Lager,21
+10260,OTTIK,Ravioli Angelo,50
+10260,OTTIK,Tarte au sucre,15
+10261,QUEDE,Sir Rodney's Scones,20
+10261,QUEDE,Steeleye Stout,20
+10262,RATTC,Chef Anton's Gumbo Mix,12
+10262,RATTC,Gnocchi di nonna Alice,2
+10262,RATTC,Uncle Bob's Organic Dried Pears,15
+10263,ERNSH,Guaraná Fantástica,28
+10263,ERNSH,Longlife Tofu,36
+10263,ERNSH,Nord-Ost Matjeshering,60
+10263,ERNSH,Pavlova,60
+10264,FOLKO,Chang,35
+10264,FOLKO,Jack's New England Clam Chowder,25
+10265,BLONP,Alice Mutton,30
+10265,BLONP,Outback Lager,20
+10266,WARTH,Queso Manchego La Pastora,12
+10267,FRANK,Boston Crab Meat,50
+10267,FRANK,Lakkalikööri,15
+10267,FRANK,Raclette Courdavault,70
+10268,GROSR,Mozzarella di Giovanni,4
+10268,GROSR,Thüringer Rostbratwurst,10
+10269,WHITC,Geitost,60
+10269,WHITC,Mozzarella di Giovanni,20
+10270,WARTH,Inlagd Sill,30
+10270,WARTH,Ipoh Coffee,25
+10271,SPLIR,Geitost,24
+10272,RATTC,Gorgonzola Telino,40
+10272,RATTC,Mozzarella di Giovanni,24
+10272,RATTC,Sir Rodney's Marmalade,6
+10273,QUICK,Boston Crab Meat,60
+10273,QUICK,Geitost,20
+10273,QUICK,Gorgonzola Telino,15
+10273,QUICK,Ikura,24
+10273,QUICK,Lakkalikööri,33
+10274,VINET,Flotemysost,20
+10274,VINET,Mozzarella di Giovanni,7
+10275,MAGAA,Guaraná Fantástica,12
+10275,MAGAA,Raclette Courdavault,6
+10276,TORTU,Ikura,15
+10276,TORTU,Konbu,10
+10277,MORGK,Rössle Sauerkraut,20
+10277,MORGK,Tarte au sucre,12
+10278,BERGS,Gula Malacca,16
+10278,BERGS,Raclette Courdavault,15
+10278,BERGS,Röd Kaviar,25
+10278,BERGS,Vegie-spread,8
+10279,LEHMS,Alice Mutton,15
+10280,BERGS,Guaraná Fantástica,12
+10280,BERGS,Pâté chinois,20
+10280,BERGS,Rhönbräu Klosterbier,30
+10281,ROMEY,Guaraná Fantástica,6
+10281,ROMEY,Steeleye Stout,4
+10281,ROMEY,Teatime Chocolate Biscuits,1
+10282,ROMEY,Nord-Ost Matjeshering,6
+10282,ROMEY,Ravioli Angelo,2
+10283,LILAS,Camembert Pierrot,35
+10283,LILAS,Genen Shouyu,20
+10283,LILAS,Mozzarella di Giovanni,3
+10283,LILAS,Teatime Chocolate Biscuits,18
+10284,LEHMS,Camembert Pierrot,20
+10284,LEHMS,Gula Malacca,21
+10284,LEHMS,Laughing Lumberjack Lager,5
+10284,LEHMS,Schoggi Schokolade,15
+10285,QUICK,Boston Crab Meat,40
+10285,QUICK,Chai,45
+10285,QUICK,Perth Pasties,36
+10286,QUICK,Steeleye Stout,100
+10286,QUICK,Tarte au sucre,40
+10287,RICAR,Pavlova,40
+10287,RICAR,Sasquatch Ale,20
+10287,RICAR,Spegesild,15
+10288,REGGC,Scottish Longbreads,3
+10288,REGGC,Tourtière,10
+10289,BSBEV,Aniseed Syrup,30
+10289,BSBEV,Wimmers gute Semmelknödel,9
+10290,COMMI,Chef Anton's Gumbo Mix,20
+10290,COMMI,Maxilaku,15
+10290,COMMI,Original Frankfurter grüne Soße,10
+10290,COMMI,Thüringer Rostbratwurst,15
+10291,QUEDE,Gula Malacca,24
+10291,QUEDE,Konbu,20
+10291,QUEDE,Manjimup Dried Apples,2
+10292,TRADH,Sir Rodney's Marmalade,20
+10293,TORTU,Carnarvon Tigers,12
+10293,TORTU,Guaraná Fantástica,10
+10293,TORTU,Rhönbräu Klosterbier,6
+10293,TORTU,Vegie-spread,5
+10294,RATTC,Alice Mutton,15
+10294,RATTC,Camembert Pierrot,21
+10294,RATTC,Chai,18
+10294,RATTC,Ipoh Coffee,15
+10294,RATTC,Rhönbräu Klosterbier,6
+10295,VINET,Gnocchi di nonna Alice,4
+10296,LILAS,Gudbrandsdalsost,15
+10296,LILAS,Pavlova,30
+10296,LILAS,Queso Cabrales,12
+10297,BLONP,Chartreuse verte,60
+10297,BLONP,Mozzarella di Giovanni,20
+10298,HUNGO,Chang,40
+10298,HUNGO,Inlagd Sill,40
+10298,HUNGO,Raclette Courdavault,30
+10298,HUNGO,Tarte au sucre,15
+10299,RICAR,Outback Lager,20
+10299,RICAR,Teatime Chocolate Biscuits,15
+10300,MAGAA,Louisiana Hot Spiced Okra,30
+10300,MAGAA,Scottish Longbreads,20
+10301,WANDK,Boston Crab Meat,10
+10301,WANDK,Gnocchi di nonna Alice,20
+10302,SUPRD,Alice Mutton,40
+10302,SUPRD,Ipoh Coffee,12
+10302,SUPRD,Rössle Sauerkraut,28
+10303,GODOS,Boston Crab Meat,40
+10303,GODOS,Louisiana Fiery Hot Pepper Sauce,30
+10303,GODOS,Scottish Longbreads,15
+10304,TORTU,Flotemysost,2
+10304,TORTU,Maxilaku,30
+10304,TORTU,Raclette Courdavault,10
+10305,OLDWO,Carnarvon Tigers,25
+10305,OLDWO,Chartreuse verte,30
+10305,OLDWO,Thüringer Rostbratwurst,25
+10306,ROMEY,Nord-Ost Matjeshering,10
+10306,ROMEY,Perth Pasties,10
+10306,ROMEY,Tourtière,5
+10307,LONEP,Scottish Longbreads,3
+10307,LONEP,Tarte au sucre,10
+10308,ANATR,Gudbrandsdalsost,1
+10308,ANATR,Outback Lager,5
+10309,HUNGO,Chef Anton's Cajun Seasoning,20
+10309,HUNGO,Flotemysost,3
+10309,HUNGO,Grandma's Boysenberry Spread,30
+10309,HUNGO,Ipoh Coffee,20
+10309,HUNGO,Singaporean Hokkien Fried Mee,2
+10310,THEBI,Pavlova,10
+10310,THEBI,Tarte au sucre,5
+10311,DUMON,Gudbrandsdalsost,7
+10311,DUMON,Singaporean Hokkien Fried Mee,6
+10312,WANDK,Ipoh Coffee,24
+10312,WANDK,Perth Pasties,20
+10312,WANDK,Rhönbräu Klosterbier,10
+10312,WANDK,Rössle Sauerkraut,4
+10313,QUICK,Inlagd Sill,12
+10314,RATTC,Escargots de Bourgogne,30
+10314,RATTC,Mascarpone Fabioli,40
+10314,RATTC,Tarte au sucre,25
+10315,ISLAT,Outback Lager,30
+10315,ISLAT,Sasquatch Ale,14
+10316,RATTC,Jack's New England Clam Chowder,10
+10316,RATTC,Tarte au sucre,70
+10317,LONEP,Chai,20
+10318,ISLAT,Jack's New England Clam Chowder,20
+10318,ISLAT,Lakkalikööri,6
+10319,TORTU,Alice Mutton,8
+10319,TORTU,Lakkalikööri,30
+10319,TORTU,Rössle Sauerkraut,14
+10320,WARTH,Flotemysost,30
+10321,ISLAT,Steeleye Stout,10
+10322,PERIC,Filo Mix,20
+10323,KOENE,Chartreuse verte,4
+10323,KOENE,Genen Shouyu,5
+10323,KOENE,NuNuCa Nuß-Nougat-Creme,4
+10324,SAVEA,Pavlova,21
+10324,SAVEA,Raclette Courdavault,40
+10324,SAVEA,Spegesild,30
+10324,SAVEA,Steeleye Stout,70
+10324,SAVEA,Vegie-spread,80
+10325,KOENE,Gorgonzola Telino,4
+10325,KOENE,Grandma's Boysenberry Spread,6
+10325,KOENE,Konbu,12
+10325,KOENE,Mozzarella di Giovanni,40
+10325,KOENE,Tofu,9
+10326,BOLID,Chef Anton's Cajun Seasoning,24
+10326,BOLID,Ravioli Angelo,16
+10326,BOLID,Rhönbräu Klosterbier,50
+10327,FOLKO,Chang,25
+10327,FOLKO,Escargots de Bourgogne,30
+10327,FOLKO,Nord-Ost Matjeshering,35
+10327,FOLKO,Queso Cabrales,50
+10328,FURIB,Louisiana Fiery Hot Pepper Sauce,40
+10328,FURIB,Raclette Courdavault,9
+10328,FURIB,Scottish Longbreads,10
+10329,SPLIR,Côte de Blaye,20
+10329,SPLIR,Gnocchi di nonna Alice,12
+10329,SPLIR,Nord-Ost Matjeshering,8
+10329,SPLIR,Teatime Chocolate Biscuits,10
+10330,LILAS,Gumbär Gummibärchen,50
+10330,LILAS,Mozzarella di Giovanni,25
+10331,BONAP,Tourtière,15
+10332,MEREP,Carnarvon Tigers,40
+10332,MEREP,Singaporean Hokkien Fried Mee,10
+10332,MEREP,Zaanse koeken,16
+10333,WARTH,Flotemysost,40
+10333,WARTH,Sir Rodney's Scones,10
+10333,WARTH,Tofu,10
+10334,VICTE,Filo Mix,8
+10334,VICTE,Scottish Longbreads,10
+10335,HUNGO,Chang,7
+10335,HUNGO,Gorgonzola Telino,25
+10335,HUNGO,Manjimup Dried Apples,48
+10335,HUNGO,Mascarpone Fabioli,6
+10336,PRINI,Chef Anton's Cajun Seasoning,18
+10337,FRANK,Gravad lax,28
+10337,FRANK,Gumbär Gummibärchen,24
+10337,FRANK,Inlagd Sill,20
+10337,FRANK,Mozzarella di Giovanni,25
+10337,FRANK,Tunnbröd,40
+10338,OLDWO,Alice Mutton,20
+10338,OLDWO,Nord-Ost Matjeshering,15
+10339,MEREP,Alice Mutton,70
+10339,MEREP,Chef Anton's Cajun Seasoning,10
+10339,MEREP,Tarte au sucre,28
+10340,BONAP,Carnarvon Tigers,20
+10340,BONAP,Ipoh Coffee,40
+10340,BONAP,Jack's New England Clam Chowder,12
+10341,SIMOB,Geitost,8
+10341,SIMOB,Raclette Courdavault,9
+10342,FRANK,Chang,24
+10342,FRANK,Gorgonzola Telino,56
+10342,FRANK,Inlagd Sill,40
+10342,FRANK,Pâté chinois,40
+10343,LEHMS,Lakkalikööri,15
+10343,LEHMS,Scottish Longbreads,4
+10343,LEHMS,Wimmers gute Semmelknödel,50
+10344,WHITC,Chef Anton's Cajun Seasoning,35
+10344,WHITC,Northwoods Cranberry Sauce,70
+10345,QUICK,Northwoods Cranberry Sauce,70
+10345,QUICK,Singaporean Hokkien Fried Mee,9
+10345,QUICK,Teatime Chocolate Biscuits,80
+10346,RATTC,Alice Mutton,36
+10346,RATTC,Gnocchi di nonna Alice,20
+10347,FAMIA,Boston Crab Meat,4
+10347,FAMIA,Chartreuse verte,50
+10347,FAMIA,NuNuCa Nuß-Nougat-Creme,10
+10347,FAMIA,Rhönbräu Klosterbier,6
+10348,WANDK,Chai,15
+10348,WANDK,Tunnbröd,25
+10349,SPLIR,Tourtière,24
+10350,LAMAI,Gudbrandsdalsost,18
+10350,LAMAI,Valkoinen suklaa,15
+10351,ERNSH,Côte de Blaye,20
+10351,ERNSH,Gula Malacca,77
+10351,ERNSH,Jack's New England Clam Chowder,13
+10351,ERNSH,Louisiana Fiery Hot Pepper Sauce,10
+10352,FURIB,Guaraná Fantástica,10
+10352,FURIB,Tourtière,20
+10353,PICCO,Côte de Blaye,50
+10353,PICCO,Queso Cabrales,12
+10354,PERIC,Chai,12
+10354,PERIC,Thüringer Rostbratwurst,4
+10355,AROUT,Guaraná Fantástica,25
+10355,AROUT,Ravioli Angelo,25
+10356,WANDK,Gorgonzola Telino,30
+10356,WANDK,Gudbrandsdalsost,20
+10356,WANDK,Pâté chinois,12
+10357,LILAS,Camembert Pierrot,8
+10357,LILAS,Gumbär Gummibärchen,16
+10357,LILAS,Ikura,30
+10358,LAMAI,Guaraná Fantástica,10
+10358,LAMAI,Inlagd Sill,20
+10358,LAMAI,Sasquatch Ale,10
+10359,SEVES,Camembert Pierrot,80
+10359,SEVES,Gorgonzola Telino,70
+10359,SEVES,Pavlova,56
+10360,BLONP,Côte de Blaye,10
+10360,BLONP,Maxilaku,35
+10360,BLONP,Rössle Sauerkraut,30
+10360,BLONP,Thüringer Rostbratwurst,35
+10360,BLONP,Tourtière,28
+10361,QUICK,Camembert Pierrot,55
+10361,QUICK,Chartreuse verte,54
+10362,BONAP,Manjimup Dried Apples,20
+10362,BONAP,NuNuCa Nuß-Nougat-Creme,50
+10362,BONAP,Tourtière,24
+10363,DRACD,Gorgonzola Telino,20
+10363,DRACD,Lakkalikööri,12
+10363,DRACD,Rhönbräu Klosterbier,12
+10364,EASTC,Flotemysost,5
+10364,EASTC,Gudbrandsdalsost,30
+10365,ANTON,Queso Cabrales,24
+10366,GALED,Louisiana Fiery Hot Pepper Sauce,5
+10366,GALED,Original Frankfurter grüne Soße,5
+10367,VAFFE,Louisiana Fiery Hot Pepper Sauce,15
+10367,VAFFE,Original Frankfurter grüne Soße,7
+10367,VAFFE,Sasquatch Ale,36
+10367,VAFFE,Tourtière,18
+10368,ERNSH,Ravioli Angelo,25
+10368,ERNSH,Rössle Sauerkraut,13
+10368,ERNSH,Sir Rodney's Scones,5
+10368,ERNSH,Wimmers gute Semmelknödel,35
+10369,SPLIR,Gnocchi di nonna Alice,18
+10369,SPLIR,Thüringer Rostbratwurst,20
+10370,CHOPS,Chai,15
+10370,CHOPS,Longlife Tofu,20
+10370,CHOPS,Wimmers gute Semmelknödel,30
+10371,LAMAI,Inlagd Sill,6
+10372,QUEEN,Camembert Pierrot,70
+10372,QUEEN,Côte de Blaye,40
+10372,QUEEN,Mozzarella di Giovanni,42
+10372,QUEEN,Sir Rodney's Marmalade,12
+10373,HUNGO,Escargots de Bourgogne,80
+10373,HUNGO,Flotemysost,50
+10374,WOLZA,Escargots de Bourgogne,15
+10374,WOLZA,Gorgonzola Telino,30
+10375,HUNGC,Tofu,15
+10375,HUNGC,Tourtière,10
+10376,MEREP,Gorgonzola Telino,42
+10377,SEVES,Chartreuse verte,20
+10377,SEVES,Rössle Sauerkraut,20
+10378,FOLKO,Flotemysost,6
+10379,QUEDE,Jack's New England Clam Chowder,8
+10379,QUEDE,Louisiana Fiery Hot Pepper Sauce,20
+10379,QUEDE,Vegie-spread,16
+10380,HUNGO,Camembert Pierrot,6
+10380,HUNGO,Nord-Ost Matjeshering,18
+10380,HUNGO,Outback Lager,30
+10380,HUNGO,Perth Pasties,20
+10381,LILAS,Longlife Tofu,14
+10382,ERNSH,Carnarvon Tigers,9
+10382,ERNSH,Chef Anton's Gumbo Mix,32
+10382,ERNSH,Geitost,60
+10382,ERNSH,Longlife Tofu,50
+10382,ERNSH,Thüringer Rostbratwurst,14
+10383,AROUT,Gnocchi di nonna Alice,20
+10383,AROUT,Konbu,20
+10383,AROUT,Valkoinen suklaa,15
+10384,BERGS,Camembert Pierrot,15
+10384,BERGS,Sir Rodney's Marmalade,28
+10385,SPLIR,Camembert Pierrot,20
+10385,SPLIR,Scottish Longbreads,8
+10385,SPLIR,Uncle Bob's Organic Dried Pears,10
+10386,FAMIA,Guaraná Fantástica,15
+10386,FAMIA,Sasquatch Ale,10
+10387,SANTG,Flotemysost,15
+10387,SANTG,Guaraná Fantástica,15
+10387,SANTG,Raclette Courdavault,12
+10387,SANTG,Rössle Sauerkraut,6
+10388,SEVES,Filo Mix,20
+10388,SEVES,Perth Pasties,40
+10388,SEVES,Rogede sild,15
+10389,BOTTM,Ikura,16
+10389,BOTTM,Outback Lager,30
+10389,BOTTM,Pâté chinois,15
+10389,BOTTM,Tarte au sucre,20
+10390,ERNSH,Gorgonzola Telino,60
+10390,ERNSH,Mozzarella di Giovanni,24
+10390,ERNSH,Spegesild,45
+10390,ERNSH,Steeleye Stout,40
+10391,DRACD,Konbu,18
+10392,PICCO,Gudbrandsdalsost,50
+10393,SAVEA,Chang,25
+10393,SAVEA,Gorgonzola Telino,32
+10393,SAVEA,Gumbär Gummibärchen,70
+10393,SAVEA,NuNuCa Nuß-Nougat-Creme,7
+10393,SAVEA,Tofu,42
+10394,HUNGC,Konbu,10
+10394,HUNGC,Tarte au sucre,10
+10395,HILAA,Gudbrandsdalsost,8
+10395,HILAA,Perth Pasties,70
+10395,HILAA,Spegesild,28
+10396,FRANK,Flotemysost,60
+10396,FRANK,Mozzarella di Giovanni,21
+10396,FRANK,Tunnbröd,40
+10397,PRINI,Manjimup Dried Apples,18
+10397,PRINI,Sir Rodney's Scones,10
+10398,SAVEA,Pâté chinois,120
+10398,SAVEA,Steeleye Stout,30
+10399,VAFFE,Flotemysost,30
+10399,VAFFE,Lakkalikööri,35
+10399,VAFFE,Original Frankfurter grüne Soße,14
+10399,VAFFE,Scottish Longbreads,60
+10400,EASTC,Maxilaku,30
+10400,EASTC,Steeleye Stout,35
+10400,EASTC,Thüringer Rostbratwurst,21
+10401,RATTC,Flotemysost,60
+10401,RATTC,Gnocchi di nonna Alice,70
+10401,RATTC,Louisiana Fiery Hot Pepper Sauce,20
+10401,RATTC,Nord-Ost Matjeshering,18
+10402,ERNSH,Tunnbröd,60
+10402,ERNSH,Vegie-spread,65
+10403,ERNSH,Chocolade,70
+10403,ERNSH,Pavlova,21
+10404,MAGAA,Gumbär Gummibärchen,30
+10404,MAGAA,Maxilaku,30
+10404,MAGAA,Singaporean Hokkien Fried Mee,40
+10405,LINOD,Aniseed Syrup,50
+10406,QUEEN,Boston Crab Meat,2
+10406,QUEEN,Chai,10
+10406,QUEEN,Inlagd Sill,5
+10406,QUEEN,Rössle Sauerkraut,42
+10406,QUEEN,Sir Rodney's Scones,30
+10407,OTTIK,Flotemysost,15
+10407,OTTIK,Gudbrandsdalsost,15
+10407,OTTIK,Queso Cabrales,30
+10408,FOLIG,Gravad lax,10
+10408,FOLIG,Tarte au sucre,35
+10408,FOLIG,Tourtière,6
+10409,OCEAN,Sir Rodney's Scones,12
+10409,OCEAN,Tofu,12
+10410,BOTTM,Geitost,49
+10410,BOTTM,Raclette Courdavault,16
+10411,BOTTM,Gula Malacca,40
+10411,BOTTM,Jack's New England Clam Chowder,25
+10411,BOTTM,Raclette Courdavault,9
+10412,WARTH,Tofu,20
+10413,LAMAI,Chai,24
+10413,LAMAI,Lakkalikööri,14
+10413,LAMAI,Tarte au sucre,40
+10414,FAMIA,Geitost,50
+10414,FAMIA,Teatime Chocolate Biscuits,18
+10415,HUNGC,Alice Mutton,2
+10415,HUNGC,Geitost,20
+10416,WARTH,Perth Pasties,10
+10416,WARTH,Ravioli Angelo,20
+10416,WARTH,Teatime Chocolate Biscuits,20
+10417,SIMOB,Côte de Blaye,50
+10417,SIMOB,Original Frankfurter grüne Soße,35
+10417,SIMOB,Scottish Longbreads,36
+10417,SIMOB,Spegesild,2
+10418,QUICK,Chang,60
+10418,QUICK,Longlife Tofu,15
+10418,QUICK,Sirop d'érable,16
+10418,QUICK,Zaanse koeken,55
+10419,RICSU,Camembert Pierrot,60
+10419,RICSU,Gudbrandsdalsost,20
+10420,WELLI,Konbu,2
+10420,WELLI,Mishi Kobe Niku,20
+10420,WELLI,Outback Lager,8
+10420,WELLI,Röd Kaviar,20
+10421,QUEDE,Gumbär Gummibärchen,30
+10421,QUEDE,Original Frankfurter grüne Soße,10
+10421,QUEDE,Perth Pasties,15
+10421,QUEDE,Teatime Chocolate Biscuits,4
+10422,FRANS,Gumbär Gummibärchen,2
+10423,GOURL,Gorgonzola Telino,14
+10423,GOURL,Raclette Courdavault,20
+10424,MEREP,Côte de Blaye,49
+10424,MEREP,Scottish Longbreads,30
+10424,MEREP,Steeleye Stout,60
+10425,LAMAI,Lakkalikööri,20
+10425,LAMAI,Pâté chinois,10
+10426,GALED,Gnocchi di nonna Alice,5
+10426,GALED,Wimmers gute Semmelknödel,7
+10427,PICCO,Tofu,35
+10428,REGGC,Spegesild,20
+10429,HUNGO,Valkoinen suklaa,40
+10429,HUNGO,Vegie-spread,35
+10430,ERNSH,Alice Mutton,45
+10430,ERNSH,Gnocchi di nonna Alice,30
+10430,ERNSH,Raclette Courdavault,70
+10430,ERNSH,Sir Rodney's Scones,50
+10431,BOTTM,Alice Mutton,50
+10431,BOTTM,Boston Crab Meat,50
+10431,BOTTM,Zaanse koeken,30
+10432,SPLIR,Gumbär Gummibärchen,10
+10432,SPLIR,Tourtière,40
+10433,PRINI,Gnocchi di nonna Alice,28
+10434,FOLKO,Lakkalikööri,18
+10434,FOLKO,Queso Cabrales,6
+10435,CONSH,Chang,10
+10435,CONSH,Gustaf's Knäckebröd,12
+10435,CONSH,Mozzarella di Giovanni,10
+10436,BLONP,Gnocchi di nonna Alice,40
+10436,BLONP,Rhönbräu Klosterbier,24
+10436,BLONP,Spegesild,5
+10436,BLONP,Wimmers gute Semmelknödel,30
+10437,WARTH,Perth Pasties,15
+10438,TOMSP,Ravioli Angelo,15
+10438,TOMSP,Sasquatch Ale,20
+10438,TOMSP,Teatime Chocolate Biscuits,15
+10439,MEREP,Longlife Tofu,30
+10439,MEREP,Pavlova,16
+10439,MEREP,Queso Manchego La Pastora,15
+10439,MEREP,Wimmers gute Semmelknödel,6
+10440,SAVEA,Chang,45
+10440,SAVEA,Pavlova,49
+10440,SAVEA,Sirop d'érable,90
+10440,SAVEA,Thüringer Rostbratwurst,24
+10441,OLDWO,Schoggi Schokolade,50
+10442,ERNSH,Louisiana Hot Spiced Okra,60
+10442,ERNSH,Queso Cabrales,30
+10442,ERNSH,Tourtière,80
+10443,REGGC,Queso Cabrales,6
+10443,REGGC,Rössle Sauerkraut,12
+10444,BERGS,Alice Mutton,10
+10444,BERGS,Gumbär Gummibärchen,15
+10444,BERGS,Jack's New England Clam Chowder,30
+10444,BERGS,Steeleye Stout,8
+10445,BERGS,Chartreuse verte,6
+10445,BERGS,Tourtière,15
+10446,TOMSP,Filo Mix,15
+10446,TOMSP,Gorgonzola Telino,3
+10446,TOMSP,Guaraná Fantástica,20
+10446,TOMSP,Teatime Chocolate Biscuits,12
+10447,RICAR,Flotemysost,2
+10447,RICAR,Louisiana Fiery Hot Pepper Sauce,35
+10447,RICAR,Teatime Chocolate Biscuits,40
+10448,RANCH,Boston Crab Meat,20
+10448,RANCH,Gumbär Gummibärchen,6
+10449,BLONP,Filo Mix,20
+10449,BLONP,Ikura,14
+10449,BLONP,Tarte au sucre,35
+10450,VICTE,Ikura,20
+10450,VICTE,Tourtière,6
+10451,QUICK,Louisiana Fiery Hot Pepper Sauce,28
+10451,QUICK,Original Frankfurter grüne Soße,55
+10451,QUICK,Pâté chinois,120
+10451,QUICK,Wimmers gute Semmelknödel,35
+10452,SAVEA,Gula Malacca,100
+10452,SAVEA,Rössle Sauerkraut,15
+10453,AROUT,Chocolade,15
+10453,AROUT,Outback Lager,25
+10454,LAMAI,Geitost,20
+10454,LAMAI,Pavlova,20
+10454,LAMAI,Spegesild,10
+10455,WARTH,Chartreuse verte,20
+10455,WARTH,Flotemysost,30
+10455,WARTH,Perth Pasties,50
+10455,WARTH,Sirop d'érable,25
+10456,KOENE,Maxilaku,21
+10456,KOENE,Sir Rodney's Scones,40
+10457,KOENE,Raclette Courdavault,36
+10458,SUPRD,Flotemysost,50
+10458,SUPRD,Gnocchi di nonna Alice,15
+10458,SUPRD,Gumbär Gummibärchen,30
+10458,SUPRD,Ipoh Coffee,20
+10458,SUPRD,Rössle Sauerkraut,30
+10459,VICTE,Mozzarella di Giovanni,40
+10459,VICTE,Spegesild,20
+10459,VICTE,Uncle Bob's Organic Dried Pears,16
+10460,FOLKO,Rhönbräu Klosterbier,4
+10460,FOLKO,Scottish Longbreads,21
+10461,LILAS,Nord-Ost Matjeshering,28
+10461,LILAS,Pâté chinois,60
+10461,LILAS,Sir Rodney's Scones,40
+10462,CONSH,Konbu,1
+10462,CONSH,Tunnbröd,21
+10463,SUPRD,Singaporean Hokkien Fried Mee,50
+10463,SUPRD,Teatime Chocolate Biscuits,21
+10464,FURIB,Camembert Pierrot,20
+10464,FURIB,Chef Anton's Cajun Seasoning,16
+10464,FURIB,Gnocchi di nonna Alice,30
+10464,FURIB,Ipoh Coffee,3
+10465,VAFFE,Boston Crab Meat,20
+10465,VAFFE,Guaraná Fantástica,25
+10465,VAFFE,Rogede sild,30
+10465,VAFFE,Thüringer Rostbratwurst,18
+10465,VAFFE,Valkoinen suklaa,25
+10466,COMMI,Queso Cabrales,10
+10466,COMMI,Spegesild,5
+10467,MAGAA,Guaraná Fantástica,28
+10467,MAGAA,NuNuCa Nuß-Nougat-Creme,12
+10468,KOENE,Ipoh Coffee,15
+10468,KOENE,Nord-Ost Matjeshering,8
+10469,WHITC,Chang,40
+10469,WHITC,Gula Malacca,2
+10469,WHITC,Pavlova,35
+10470,BONAP,Carnarvon Tigers,30
+10470,BONAP,Tunnbröd,15
+10470,BONAP,Wimmers gute Semmelknödel,8
+10471,BSBEV,Gnocchi di nonna Alice,20
+10471,BSBEV,Uncle Bob's Organic Dried Pears,30
+10472,SEVES,Guaraná Fantástica,80
+10472,SEVES,Manjimup Dried Apples,18
+10473,ISLAT,Flotemysost,12
+10473,ISLAT,Geitost,12
+10474,PERIC,Boston Crab Meat,21
+10474,PERIC,Rhönbräu Klosterbier,10
+10474,PERIC,Rössle Sauerkraut,18
+10474,PERIC,Tofu,12
+10475,SUPRD,Gorgonzola Telino,35
+10475,SUPRD,Lakkalikööri,42
+10475,SUPRD,Louisiana Hot Spiced Okra,60
+10476,HILAA,Outback Lager,12
+10476,HILAA,Pâté chinois,2
+10477,PRINI,Chai,15
+10477,PRINI,Chartreuse verte,20
+10477,PRINI,Sir Rodney's Scones,21
+10478,VICTE,Ikura,20
+10479,RATTC,Côte de Blaye,30
+10479,RATTC,Perth Pasties,28
+10479,RATTC,Raclette Courdavault,60
+10479,RATTC,Wimmers gute Semmelknödel,30
+10480,FOLIG,Raclette Courdavault,12
+10480,FOLIG,Zaanse koeken,30
+10481,RICAR,Camembert Pierrot,40
+10481,RICAR,Maxilaku,24
+10482,LAZYK,Boston Crab Meat,10
+10483,WHITC,Original Frankfurter grüne Soße,30
+10483,WHITC,Sasquatch Ale,35
+10484,BSBEV,Boston Crab Meat,10
+10484,BSBEV,Manjimup Dried Apples,3
+10484,BSBEV,Sir Rodney's Scones,14
+10485,LINOD,Aniseed Syrup,20
+10485,LINOD,Chang,20
+10485,LINOD,Outback Lager,60
+10485,LINOD,Pâté chinois,30
+10486,HILAA,Longlife Tofu,16
+10486,HILAA,Manjimup Dried Apples,25
+10486,HILAA,Queso Cabrales,5
+10487,QUEEN,Gumbär Gummibärchen,30
+10487,QUEEN,Teatime Chocolate Biscuits,5
+10487,QUEEN,Tourtière,24
+10488,FRANK,Raclette Courdavault,30
+10488,FRANK,Röd Kaviar,20
+10489,PICCO,Pavlova,18
+10489,PICCO,Queso Cabrales,15
+10490,HILAA,Raclette Courdavault,60
+10490,HILAA,Rhönbräu Klosterbier,36
+10490,HILAA,Scottish Longbreads,30
+10491,FURIB,Gula Malacca,15
+10491,FURIB,Original Frankfurter grüne Soße,7
+10492,BOTTM,NuNuCa Nuß-Nougat-Creme,60
+10492,BOTTM,Singaporean Hokkien Fried Mee,20
+10493,LAMAI,Gudbrandsdalsost,10
+10493,LAMAI,Louisiana Fiery Hot Pepper Sauce,15
+10493,LAMAI,Louisiana Hot Spiced Okra,10
+10494,COMMI,Gnocchi di nonna Alice,30
+10495,LAUGB,Jack's New England Clam Chowder,20
+10495,LAUGB,Original Frankfurter grüne Soße,5
+10495,LAUGB,Tunnbröd,10
+10496,TRADH,Gorgonzola Telino,20
+10497,LEHMS,Gnocchi di nonna Alice,14
+10497,LEHMS,Mozzarella di Giovanni,25
+10497,LEHMS,Original Frankfurter grüne Soße,25
+10498,HILAA,Boston Crab Meat,5
+10498,HILAA,Guaraná Fantástica,14
+10498,HILAA,Singaporean Hokkien Fried Mee,30
+10499,LILAS,Maxilaku,25
+10499,LILAS,Rössle Sauerkraut,20
+10500,LAMAI,Genen Shouyu,12
+10500,LAMAI,Rössle Sauerkraut,8
+10501,BLAUS,Tourtière,20
+10502,PERIC,Laughing Lumberjack Lager,30
+10502,PERIC,Perth Pasties,6
+10502,PERIC,Rogede sild,21
+10503,HUNGO,Louisiana Fiery Hot Pepper Sauce,20
+10503,HUNGO,Tofu,70
+10504,WHITC,Chang,12
+10504,WHITC,Perth Pasties,10
+10504,WHITC,Sir Rodney's Scones,12
+10504,WHITC,Sirop d'érable,25
+10505,MEREP,Tarte au sucre,3
+10506,KOENE,NuNuCa Nuß-Nougat-Creme,18
+10506,KOENE,Outback Lager,14
+10507,ANTON,Chocolade,15
+10507,ANTON,Ipoh Coffee,15
+10508,OTTIK,Chartreuse verte,10
+10508,OTTIK,Konbu,10
+10509,BLAUS,Rössle Sauerkraut,3
+10510,SAVEA,Rhönbräu Klosterbier,36
+10510,SAVEA,Thüringer Rostbratwurst,36
+10511,BONAP,Chef Anton's Cajun Seasoning,50
+10511,BONAP,Northwoods Cranberry Sauce,10
+10511,BONAP,Uncle Bob's Organic Dried Pears,50
+10512,FAMIA,Camembert Pierrot,12
+10512,FAMIA,Guaraná Fantástica,10
+10512,FAMIA,Spegesild,9
+10512,FAMIA,Zaanse koeken,6
+10513,WANDK,Mascarpone Fabioli,50
+10513,WANDK,Sir Rodney's Scones,40
+10513,WANDK,Sirop d'érable,15
+10514,ERNSH,Gnocchi di nonna Alice,70
+10514,ERNSH,Louisiana Fiery Hot Pepper Sauce,39
+10514,ERNSH,Rhönbräu Klosterbier,50
+10514,ERNSH,Rössle Sauerkraut,35
+10514,ERNSH,Sir Rodney's Marmalade,39
+10515,QUICK,Camembert Pierrot,84
+10515,QUICK,Geitost,16
+10515,QUICK,Mishi Kobe Niku,16
+10515,QUICK,Pavlova,50
+10515,QUICK,Schoggi Schokolade,120
+10516,HUNGO,Carnarvon Tigers,25
+10516,HUNGO,Jack's New England Clam Chowder,80
+10516,HUNGO,Singaporean Hokkien Fried Mee,20
+10517,NORTS,Filo Mix,6
+10517,NORTS,Outback Lager,6
+10517,NORTS,Raclette Courdavault,4
+10518,TORTU,Côte de Blaye,15
+10518,TORTU,Guaraná Fantástica,5
+10518,TORTU,Gula Malacca,9
+10519,CHOPS,Camembert Pierrot,10
+10519,CHOPS,Gnocchi di nonna Alice,40
+10519,CHOPS,Ikura,16
+10520,SANTG,Guaraná Fantástica,8
+10520,SANTG,Perth Pasties,5
+10521,CACTU,Jack's New England Clam Chowder,10
+10521,CACTU,Scottish Longbreads,6
+10521,CACTU,Steeleye Stout,3
+10522,LEHMS,Boston Crab Meat,25
+10522,LEHMS,Chai,40
+10522,LEHMS,Nord-Ost Matjeshering,20
+10522,LEHMS,Northwoods Cranberry Sauce,24
+10523,SEVES,Alice Mutton,25
+10523,SEVES,Gravad lax,18
+10523,SEVES,Jack's New England Clam Chowder,6
+10523,SEVES,Sir Rodney's Marmalade,15
+10524,BERGS,Ikura,2
+10524,BERGS,Ipoh Coffee,60
+10524,BERGS,Nord-Ost Matjeshering,10
+10524,BERGS,Tourtière,15
+10525,BONAP,Boston Crab Meat,15
+10525,BONAP,Inlagd Sill,30
+10526,WARTH,Chai,8
+10526,WARTH,Gnocchi di nonna Alice,30
+10526,WARTH,Konbu,10
+10527,QUICK,Chef Anton's Cajun Seasoning,50
+10527,QUICK,Inlagd Sill,30
+10528,GREAL,Geitost,8
+10528,GREAL,Mozzarella di Giovanni,9
+10528,GREAL,Queso Cabrales,3
+10529,MAISD,Gudbrandsdalsost,10
+10529,MAISD,Pâté chinois,14
+10529,MAISD,Scottish Longbreads,20
+10530,PICCO,Alice Mutton,40
+10530,PICCO,Ipoh Coffee,25
+10530,PICCO,Lakkalikööri,50
+10530,PICCO,Sirop d'érable,20
+10531,OCEAN,Raclette Courdavault,2
+10532,EASTC,Louisiana Hot Spiced Okra,24
+10532,EASTC,Nord-Ost Matjeshering,15
+10533,FOLKO,Chef Anton's Cajun Seasoning,50
+10533,FOLKO,Mozzarella di Giovanni,24
+10533,FOLKO,Röd Kaviar,24
+10534,LEHMS,Boston Crab Meat,10
+10534,LEHMS,Nord-Ost Matjeshering,10
+10534,LEHMS,Tourtière,10
+10535,ANTON,Boston Crab Meat,10
+10535,ANTON,Queso Cabrales,50
+10535,ANTON,Raclette Courdavault,15
+10535,ANTON,Ravioli Angelo,5
+10536,LEHMS,Camembert Pierrot,35
+10536,LEHMS,Geitost,30
+10536,LEHMS,Gorgonzola Telino,20
+10536,LEHMS,Queso Manchego La Pastora,15
+10537,RICSU,Escargots de Bourgogne,20
+10537,RICSU,Gorgonzola Telino,30
+10537,RICSU,Manjimup Dried Apples,6
+10537,RICSU,Mozzarella di Giovanni,21
+10537,RICSU,Röd Kaviar,9
+10538,BSBEV,Mozzarella di Giovanni,1
+10538,BSBEV,Outback Lager,7
+10539,BSBEV,Geitost,15
+10539,BSBEV,Konbu,8
+10539,BSBEV,Maxilaku,6
+10539,BSBEV,Sir Rodney's Scones,15
+10540,QUICK,Aniseed Syrup,60
+10540,QUICK,Côte de Blaye,30
+10540,QUICK,Gumbär Gummibärchen,40
+10540,QUICK,Scottish Longbreads,35
+10541,HANAR,Côte de Blaye,4
+10541,HANAR,Flotemysost,9
+10541,HANAR,Guaraná Fantástica,35
+10541,HANAR,Louisiana Fiery Hot Pepper Sauce,36
+10542,KOENE,Queso Cabrales,15
+10542,KOENE,Tourtière,24
+10543,LILAS,Queso Manchego La Pastora,30
+10543,LILAS,Tunnbröd,70
+10544,LONEP,Laughing Lumberjack Lager,7
+10544,LONEP,Rössle Sauerkraut,7
+10545,LAZYK,Queso Cabrales,10
+10546,VICTE,Steeleye Stout,30
+10546,VICTE,Tarte au sucre,40
+10546,VICTE,Uncle Bob's Organic Dried Pears,10
+10547,SEVES,Inlagd Sill,60
+10547,SEVES,Mascarpone Fabioli,24
+10548,TOMSP,Jack's New England Clam Chowder,14
+10548,TOMSP,Sasquatch Ale,10
+10549,QUICK,Gorgonzola Telino,55
+10549,QUICK,Manjimup Dried Apples,48
+10549,QUICK,Rogede sild,100
+10550,GODOS,Alice Mutton,8
+10550,GODOS,Sir Rodney's Scones,6
+10550,GODOS,Sirop d'érable,10
+10550,GODOS,Teatime Chocolate Biscuits,10
+10551,FURIB,Gula Malacca,40
+10551,FURIB,Pavlova,40
+10551,FURIB,Steeleye Stout,20
+10552,HILAA,Gudbrandsdalsost,18
+10552,HILAA,Rhönbräu Klosterbier,30
+10553,WARTH,Gorgonzola Telino,30
+10553,WARTH,Gustaf's Knäckebröd,24
+10553,WARTH,Pavlova,14
+10553,WARTH,Queso Cabrales,15
+10553,WARTH,Steeleye Stout,6
+10554,OTTIK,Original Frankfurter grüne Soße,10
+10554,OTTIK,Pavlova,30
+10554,OTTIK,Tarte au sucre,20
+10554,OTTIK,Tunnbröd,20
+10555,SAVEA,Gnocchi di nonna Alice,40
+10555,SAVEA,Guaraná Fantástica,18
+10555,SAVEA,Manjimup Dried Apples,20
+10555,SAVEA,Teatime Chocolate Biscuits,35
+10555,SAVEA,Tofu,30
+10556,SIMOB,Mozzarella di Giovanni,24
+10557,LEHMS,Rhönbräu Klosterbier,20
+10557,LEHMS,Wimmers gute Semmelknödel,30
+10558,AROUT,Filo Mix,30
+10558,AROUT,Manjimup Dried Apples,20
+10558,AROUT,Perth Pasties,18
+10558,AROUT,Röd Kaviar,3
+10558,AROUT,Zaanse koeken,25
+10559,BLONP,Jack's New England Clam Chowder,12
+10559,BLONP,Pâté chinois,18
+10560,FRANK,Nord-Ost Matjeshering,20
+10560,FRANK,Tarte au sucre,15
+10561,FOLKO,Gula Malacca,10
+10561,FOLKO,Manjimup Dried Apples,50
+10562,REGGC,Geitost,20
+10562,REGGC,Tarte au sucre,10
+10563,RICAR,Filo Mix,70
+10563,RICAR,Inlagd Sill,25
+10564,RATTC,Alice Mutton,16
+10564,RATTC,Gorgonzola Telino,6
+10564,RATTC,Pâté chinois,25
+10565,MEREP,Guaraná Fantástica,25
+10565,MEREP,Wimmers gute Semmelknödel,18
+10566,BLONP,Carnarvon Tigers,18
+10566,BLONP,Lakkalikööri,10
+10566,BLONP,Queso Cabrales,35
+10567,HUNGO,Gorgonzola Telino,60
+10567,HUNGO,Manjimup Dried Apples,3
+10567,HUNGO,Raclette Courdavault,40
+10568,GALED,Ikura,5
+10569,RATTC,Gorgonzola Telino,35
+10569,RATTC,Lakkalikööri,30
+10570,MEREP,Gnocchi di nonna Alice,60
+10570,MEREP,Queso Cabrales,15
+10571,ERNSH,Singaporean Hokkien Fried Mee,28
+10571,ERNSH,Tofu,11
+10572,BERGS,Boston Crab Meat,50
+10572,BERGS,Mascarpone Fabioli,10
+10572,BERGS,Pavlova,12
+10572,BERGS,Rhönbräu Klosterbier,15
+10573,ANTON,Alice Mutton,18
+10573,ANTON,Perth Pasties,25
+10573,ANTON,Sasquatch Ale,40
+10574,TRAIH,Boston Crab Meat,2
+10574,TRAIH,Geitost,14
+10574,TRAIH,Tarte au sucre,10
+10574,TRAIH,Wimmers gute Semmelknödel,6
+10575,MORGK,Lakkalikööri,10
+10575,MORGK,Mozzarella di Giovanni,30
+10575,MORGK,Raclette Courdavault,12
+10575,MORGK,Vegie-spread,6
+10576,TORTU,Chai,10
+10576,TORTU,Gorgonzola Telino,20
+10576,TORTU,Gula Malacca,21
+10577,TRAIH,Chartreuse verte,10
+10577,TRAIH,Original Frankfurter grüne Soße,18
+10577,TRAIH,Rhönbräu Klosterbier,20
+10578,BSBEV,Ravioli Angelo,6
+10578,BSBEV,Steeleye Stout,20
+10579,LETSS,Genen Shouyu,10
+10579,LETSS,Rhönbräu Klosterbier,21
+10580,OTTIK,Jack's New England Clam Chowder,9
+10580,OTTIK,Louisiana Fiery Hot Pepper Sauce,30
+10580,OTTIK,Tofu,15
+10581,FAMIA,Rhönbräu Klosterbier,50
+10582,BLAUS,Lakkalikööri,14
+10582,BLAUS,Ravioli Angelo,4
+10583,WARTH,Camembert Pierrot,24
+10583,WARTH,Gudbrandsdalsost,10
+10583,WARTH,Thüringer Rostbratwurst,10
+10584,BLONP,Gorgonzola Telino,50
+10585,WELLI,Zaanse koeken,15
+10586,REGGC,Filo Mix,4
+10587,QUEDE,Gumbär Gummibärchen,6
+10587,QUEDE,Original Frankfurter grüne Soße,20
+10587,QUEDE,Steeleye Stout,20
+10588,QUICK,Carnarvon Tigers,40
+10588,QUICK,Singaporean Hokkien Fried Mee,100
+10589,GREAL,Steeleye Stout,4
+10590,MEREP,Chai,20
+10590,MEREP,Original Frankfurter grüne Soße,60
+10591,VAFFE,Aniseed Syrup,14
+10591,VAFFE,Tourtière,50
+10591,VAFFE,Uncle Bob's Organic Dried Pears,10
+10592,LEHMS,Genen Shouyu,25
+10592,LEHMS,Gumbär Gummibärchen,5
+10593,LEHMS,Gudbrandsdalsost,20
+10593,LEHMS,Lakkalikööri,4
+10593,LEHMS,Sir Rodney's Marmalade,21
+10594,OLDWO,Escargots de Bourgogne,30
+10594,OLDWO,Filo Mix,24
+10595,ERNSH,Gudbrandsdalsost,65
+10595,ERNSH,Sirop d'érable,120
+10595,ERNSH,Steeleye Stout,30
+10596,WHITC,Gnocchi di nonna Alice,5
+10596,WHITC,Rhönbräu Klosterbier,30
+10596,WHITC,Vegie-spread,24
+10597,PICCO,Guaraná Fantástica,35
+10597,PICCO,Louisiana Fiery Hot Pepper Sauce,12
+10597,PICCO,Ravioli Angelo,20
+10598,RATTC,Flotemysost,9
+10598,RATTC,Schoggi Schokolade,50
+10599,BSBEV,Tarte au sucre,10
+10600,HUNGC,Röd Kaviar,30
+10600,HUNGC,Tourtière,4
+10601,HILAA,Konbu,60
+10601,HILAA,Raclette Courdavault,35
+10602,VAFFE,Original Frankfurter grüne Soße,5
+10603,SAVEA,Gustaf's Knäckebröd,48
+10603,SAVEA,Maxilaku,25
+10604,FURIB,Chocolade,6
+10604,FURIB,Lakkalikööri,10
+10605,MEREP,Camembert Pierrot,70
+10605,MEREP,Flotemysost,15
+10605,MEREP,Pavlova,30
+10605,MEREP,Raclette Courdavault,20
+10606,TRADH,Chef Anton's Cajun Seasoning,20
+10606,TRADH,Pâté chinois,20
+10606,TRADH,Tarte au sucre,10
+10607,SAVEA,Alice Mutton,100
+10607,SAVEA,Boston Crab Meat,42
+10607,SAVEA,Geitost,14
+10607,SAVEA,Mozzarella di Giovanni,12
+10607,SAVEA,Uncle Bob's Organic Dried Pears,45
+10608,TOMSP,Gnocchi di nonna Alice,28
+10609,DUMON,Chai,3
+10609,DUMON,Ikura,10
+10609,DUMON,Sir Rodney's Scones,6
+10610,LAMAI,Inlagd Sill,21
+10611,WOLZA,Camembert Pierrot,15
+10611,WOLZA,Chai,6
+10611,WOLZA,Chang,10
+10612,SAVEA,Camembert Pierrot,40
+10612,SAVEA,Ikura,70
+10612,SAVEA,Inlagd Sill,55
+10612,SAVEA,Lakkalikööri,80
+10612,SAVEA,Maxilaku,18
+10613,HILAA,Konbu,8
+10613,HILAA,Rhönbräu Klosterbier,40
+10614,BLAUS,Chartreuse verte,5
+10614,BLAUS,Queso Cabrales,14
+10614,BLAUS,Sir Rodney's Scones,8
+10615,WILMK,Pâté chinois,5
+10616,GREAL,Côte de Blaye,15
+10616,GREAL,Flotemysost,15
+10616,GREAL,Gnocchi di nonna Alice,14
+10616,GREAL,Outback Lager,15
+10617,GREAL,Raclette Courdavault,30
+10618,MEREP,Gnocchi di nonna Alice,20
+10618,MEREP,Grandma's Boysenberry Spread,70
+10618,MEREP,Scottish Longbreads,15
+10619,MEREP,Gustaf's Knäckebröd,40
+10619,MEREP,Sir Rodney's Scones,42
+10620,LAUGB,Filo Mix,5
+10620,LAUGB,Guaraná Fantástica,5
+10621,ISLAT,Flotemysost,15
+10621,ISLAT,Outback Lager,20
+10621,ISLAT,Teatime Chocolate Biscuits,5
+10621,ISLAT,Tunnbröd,10
+10622,RICAR,Chang,20
+10622,RICAR,Scottish Longbreads,18
+10623,FRANK,Guaraná Fantástica,3
+10623,FRANK,Sir Rodney's Scones,25
+10623,FRANK,Steeleye Stout,30
+10623,FRANK,Teatime Chocolate Biscuits,15
+10623,FRANK,Tofu,21
+10624,THECR,Gula Malacca,10
+10624,THECR,Rössle Sauerkraut,10
+10624,THECR,Thüringer Rostbratwurst,6
+10625,ANATR,Camembert Pierrot,10
+10625,ANATR,Singaporean Hokkien Fried Mee,5
+10625,ANATR,Tofu,3
+10626,BERGS,Camembert Pierrot,20
+10626,BERGS,Flotemysost,20
+10626,BERGS,Perth Pasties,12
+10627,SAVEA,Röd Kaviar,35
+10627,SAVEA,Tarte au sucre,15
+10628,BLONP,Chai,25
+10629,GODOS,Thüringer Rostbratwurst,20
+10629,GODOS,Wimmers gute Semmelknödel,9
+10630,KOENE,Lakkalikööri,35
+10630,KOENE,Pâté chinois,12
+10631,LAMAI,Rhönbräu Klosterbier,8
+10632,WANDK,Chang,30
+10632,WANDK,Geitost,20
+10633,ERNSH,Gumbär Gummibärchen,35
+10633,ERNSH,Konbu,13
+10633,ERNSH,Queso Manchego La Pastora,36
+10633,ERNSH,Tarte au sucre,80
+10634,FOLIG,Carnarvon Tigers,50
+10634,FOLIG,Manjimup Dried Apples,15
+10634,FOLIG,Rhönbräu Klosterbier,2
+10634,FOLIG,Uncle Bob's Organic Dried Pears,35
+10635,MAGAA,Chef Anton's Cajun Seasoning,10
+10635,MAGAA,Chef Anton's Gumbo Mix,15
+10635,MAGAA,Gustaf's Knäckebröd,40
+10636,WARTH,Chef Anton's Cajun Seasoning,25
+10636,WARTH,Escargots de Bourgogne,6
+10637,QUEEN,Gnocchi di nonna Alice,60
+10637,QUEEN,Queso Cabrales,10
+10637,QUEEN,Valkoinen suklaa,25
+10638,LINOD,Louisiana Fiery Hot Pepper Sauce,21
+10638,LINOD,Mozzarella di Giovanni,60
+10638,LINOD,Rogede sild,20
+10639,SANTG,Carnarvon Tigers,8
+10640,WANDK,Gudbrandsdalsost,20
+10640,WANDK,Outback Lager,15
+10641,HILAA,Boston Crab Meat,60
+10641,HILAA,Chang,50
+10642,SIMOB,Sir Rodney's Scones,30
+10642,SIMOB,Sirop d'érable,20
+10643,ALFKI,Chartreuse verte,21
+10643,ALFKI,Rössle Sauerkraut,15
+10643,ALFKI,Spegesild,2
+10644,WELLI,Carnarvon Tigers,4
+10644,WELLI,Ipoh Coffee,20
+10644,WELLI,Spegesild,21
+10645,HANAR,Carnarvon Tigers,20
+10645,HANAR,Inlagd Sill,15
+10646,HUNGO,Chai,15
+10646,HUNGO,Flotemysost,30
+10646,HUNGO,Ikura,18
+10646,HUNGO,Original Frankfurter grüne Soße,35
+10647,QUEDE,Chartreuse verte,20
+10647,QUEDE,Teatime Chocolate Biscuits,30
+10648,RICAR,Guaraná Fantástica,15
+10648,RICAR,Gustaf's Knäckebröd,15
+10649,MAISD,Mozzarella di Giovanni,15
+10649,MAISD,Rössle Sauerkraut,20
+10650,FAMIA,Nord-Ost Matjeshering,30
+10650,FAMIA,Perth Pasties,25
+10650,FAMIA,Tourtière,30
+10651,WANDK,Gustaf's Knäckebröd,20
+10651,WANDK,Teatime Chocolate Biscuits,12
+10652,GOURL,Nord-Ost Matjeshering,2
+10652,GOURL,Singaporean Hokkien Fried Mee,20
+10653,FRANK,Camembert Pierrot,20
+10653,FRANK,Pavlova,30
+10654,BERGS,Chartreuse verte,20
+10654,BERGS,Chef Anton's Cajun Seasoning,12
+10654,BERGS,Tourtière,6
+10655,REGGC,Jack's New England Clam Chowder,20
+10656,GREAL,Gula Malacca,28
+10656,GREAL,Tofu,3
+10656,GREAL,Zaanse koeken,6
+10657,SAVEA,Camembert Pierrot,30
+10657,SAVEA,Genen Shouyu,50
+10657,SAVEA,Gnocchi di nonna Alice,45
+10657,SAVEA,Jack's New England Clam Chowder,24
+10657,SAVEA,Spegesild,45
+10657,SAVEA,Zaanse koeken,10
+10658,QUICK,Boston Crab Meat,70
+10658,QUICK,Camembert Pierrot,55
+10658,QUICK,Original Frankfurter grüne Soße,70
+10658,QUICK,Sir Rodney's Scones,60
+10659,QUEEN,Boston Crab Meat,24
+10659,QUEEN,Gorgonzola Telino,20
+10659,QUEEN,Outback Lager,40
+10660,HUNGC,Sir Rodney's Marmalade,21
+10661,HUNGO,Chartreuse verte,3
+10661,HUNGO,Escargots de Bourgogne,49
+10662,LONEP,Scottish Longbreads,10
+10663,BONAP,Boston Crab Meat,30
+10663,BONAP,Manjimup Dried Apples,20
+10663,BONAP,Singaporean Hokkien Fried Mee,30
+10664,FURIB,Gnocchi di nonna Alice,12
+10664,FURIB,Ikura,24
+10664,FURIB,Louisiana Fiery Hot Pepper Sauce,15
+10665,LONEP,Lakkalikööri,10
+10665,LONEP,Manjimup Dried Apples,20
+10665,LONEP,Raclette Courdavault,1
+10666,RICSU,Louisiana Fiery Hot Pepper Sauce,10
+10666,RICSU,Thüringer Rostbratwurst,36
+10667,ERNSH,Flotemysost,14
+10667,ERNSH,Gudbrandsdalsost,45
+10668,WANDK,Gorgonzola Telino,8
+10668,WANDK,Pâté chinois,4
+10668,WANDK,Wimmers gute Semmelknödel,15
+10669,SIMOB,Inlagd Sill,30
+10670,FRANK,Laughing Lumberjack Lager,25
+10670,FRANK,Rhönbräu Klosterbier,25
+10670,FRANK,Röd Kaviar,50
+10670,FRANK,Spegesild,60
+10670,FRANK,Tunnbröd,32
+10671,FRANR,Louisiana Fiery Hot Pepper Sauce,12
+10671,FRANR,Pavlova,10
+10671,FRANR,Tarte au sucre,10
+10672,BERGS,Côte de Blaye,15
+10672,BERGS,Flotemysost,12
+10673,WILMK,Ipoh Coffee,6
+10673,WILMK,Pavlova,3
+10673,WILMK,Singaporean Hokkien Fried Mee,6
+10674,ISLAT,Tunnbröd,5
+10675,FRANK,Escargots de Bourgogne,30
+10675,FRANK,Perth Pasties,10
+10675,FRANK,Tofu,30
+10676,TORTU,Gula Malacca,21
+10676,TORTU,Ikura,2
+10676,TORTU,Teatime Chocolate Biscuits,7
+10677,ANTON,Geitost,8
+10677,ANTON,Gumbär Gummibärchen,30
+10678,SAVEA,Geitost,30
+10678,SAVEA,Jack's New England Clam Chowder,120
+10678,SAVEA,Queso Manchego La Pastora,100
+10678,SAVEA,Tourtière,30
+10679,BLONP,Raclette Courdavault,12
+10680,OLDWO,Gorgonzola Telino,20
+10680,OLDWO,Pavlova,50
+10680,OLDWO,Singaporean Hokkien Fried Mee,40
+10681,GREAL,Sir Rodney's Scones,12
+10681,GREAL,Teatime Chocolate Biscuits,30
+10681,GREAL,Wimmers gute Semmelknödel,28
+10682,ANTON,Geitost,30
+10682,ANTON,Louisiana Hot Spiced Okra,4
+10682,ANTON,Rhönbräu Klosterbier,30
+10683,DUMON,Filo Mix,9
+10684,OTTIK,Boston Crab Meat,20
+10684,OTTIK,Camembert Pierrot,30
+10684,OTTIK,Zaanse koeken,40
+10685,GOURL,Ikura,20
+10685,GOURL,Jack's New England Clam Chowder,4
+10685,GOURL,Zaanse koeken,15
+10686,PICCO,Alice Mutton,30
+10686,PICCO,Gumbär Gummibärchen,15
+10687,HUNGO,Inlagd Sill,6
+10687,HUNGO,Mishi Kobe Niku,50
+10687,HUNGO,Thüringer Rostbratwurst,10
+10688,VAFFE,Ikura,18
+10688,VAFFE,Rössle Sauerkraut,60
+10688,VAFFE,Sasquatch Ale,14
+10689,BERGS,Chai,35
+10690,HANAR,Gnocchi di nonna Alice,20
+10690,HANAR,Original Frankfurter grüne Soße,30
+10691,QUICK,Chai,30
+10691,QUICK,Gula Malacca,24
+10691,QUICK,Ipoh Coffee,40
+10691,QUICK,Tarte au sucre,48
+10691,QUICK,Thüringer Rostbratwurst,40
+10692,ALFKI,Vegie-spread,20
+10693,WHITC,Gudbrandsdalsost,30
+10693,WHITC,Mishi Kobe Niku,6
+10693,WHITC,Röd Kaviar,15
+10693,WHITC,Tourtière,60
+10694,QUICK,Outback Lager,50
+10694,QUICK,Raclette Courdavault,25
+10694,QUICK,Uncle Bob's Organic Dried Pears,90
+10695,WILMK,Guaraná Fantástica,20
+10695,WILMK,Northwoods Cranberry Sauce,10
+10695,WILMK,Queso Manchego La Pastora,4
+10696,WHITC,Alice Mutton,20
+10696,WHITC,Spegesild,18
+10697,LINOD,Escargots de Bourgogne,30
+10697,LINOD,Outback Lager,30
+10697,LINOD,Steeleye Stout,9
+10697,LINOD,Teatime Chocolate Biscuits,7
+10698,ERNSH,Alice Mutton,8
+10698,ERNSH,Louisiana Fiery Hot Pepper Sauce,65
+10698,ERNSH,Outback Lager,8
+10698,ERNSH,Queso Cabrales,15
+10698,ERNSH,Thüringer Rostbratwurst,12
+10699,MORGK,Zaanse koeken,12
+10700,SAVEA,Chai,5
+10700,SAVEA,Flotemysost,60
+10700,SAVEA,Sasquatch Ale,12
+10700,SAVEA,Scottish Longbreads,40
+10701,HUNGO,Flotemysost,20
+10701,HUNGO,Lakkalikööri,35
+10701,HUNGO,Raclette Courdavault,42
+10702,ALFKI,Aniseed Syrup,6
+10702,ALFKI,Lakkalikööri,15
+10703,FOLKO,Chang,5
+10703,FOLKO,Raclette Courdavault,35
+10703,FOLKO,Röd Kaviar,35
+10704,QUEEN,Chef Anton's Cajun Seasoning,6
+10704,QUEEN,Chocolade,24
+10704,QUEEN,Guaraná Fantástica,35
+10705,HILAA,Gorgonzola Telino,20
+10705,HILAA,Mascarpone Fabioli,4
+10706,OLDWO,Ipoh Coffee,24
+10706,OLDWO,Pavlova,20
+10706,OLDWO,Raclette Courdavault,8
+10707,AROUT,Outback Lager,28
+10707,AROUT,Pâté chinois,21
+10707,AROUT,Ravioli Angelo,40
+10708,THEBI,Chef Anton's Gumbo Mix,4
+10708,THEBI,Inlagd Sill,5
+10709,GOURL,Camembert Pierrot,10
+10709,GOURL,Manjimup Dried Apples,28
+10709,GOURL,Northwoods Cranberry Sauce,40
+10710,FRANS,Teatime Chocolate Biscuits,5
+10710,FRANS,Zaanse koeken,5
+10711,SAVEA,Jack's New England Clam Chowder,42
+10711,SAVEA,Perth Pasties,120
+10711,SAVEA,Teatime Chocolate Biscuits,12
+10712,HUNGO,Gnocchi di nonna Alice,30
+10712,HUNGO,Perth Pasties,3
+10713,SAVEA,Gumbär Gummibärchen,30
+10713,SAVEA,Ikura,18
+10713,SAVEA,Rogede sild,110
+10713,SAVEA,Spegesild,24
+10714,SAVEA,Alice Mutton,27
+10714,SAVEA,Chang,30
+10714,SAVEA,Escargots de Bourgogne,12
+10714,SAVEA,Gnocchi di nonna Alice,18
+10714,SAVEA,Zaanse koeken,50
+10715,BONAP,Flotemysost,30
+10715,BONAP,Ikura,21
+10716,RANCH,Manjimup Dried Apples,7
+10716,RANCH,Sir Rodney's Scones,5
+10716,RANCH,Sirop d'érable,10
+10717,FRANK,Gudbrandsdalsost,25
+10717,FRANK,Sir Rodney's Scones,32
+10717,FRANK,Tourtière,15
+10718,KOENE,Inlagd Sill,40
+10718,KOENE,Pavlova,20
+10718,KOENE,Queso Manchego La Pastora,36
+10718,KOENE,Tarte au sucre,20
+10719,LETSS,Carnarvon Tigers,12
+10719,LETSS,Nord-Ost Matjeshering,3
+10719,LETSS,Tourtière,40
+10720,QUEDE,Flotemysost,8
+10720,QUEDE,Steeleye Stout,21
+10721,QUICK,Gula Malacca,50
+10722,SAVEA,Chang,3
+10722,SAVEA,Gorgonzola Telino,50
+10722,SAVEA,Rhönbräu Klosterbier,42
+10722,SAVEA,Scottish Longbreads,45
+10723,WHITC,Gumbär Gummibärchen,15
+10724,MEREP,Ikura,16
+10724,MEREP,Sirop d'érable,5
+10725,FAMIA,Filo Mix,4
+10725,FAMIA,Jack's New England Clam Chowder,12
+10725,FAMIA,Pâté chinois,6
+10726,EASTC,Chef Anton's Cajun Seasoning,25
+10726,EASTC,Queso Cabrales,5
+10727,REGGC,Alice Mutton,20
+10727,REGGC,Gnocchi di nonna Alice,10
+10727,REGGC,Raclette Courdavault,10
+10728,QUEEN,Boston Crab Meat,6
+10728,QUEEN,Camembert Pierrot,15
+10728,QUEEN,Nord-Ost Matjeshering,15
+10728,QUEEN,Pâté chinois,12
+10729,LINOD,Chai,50
+10729,LINOD,Sir Rodney's Scones,30
+10729,LINOD,Valkoinen suklaa,40
+10730,BONAP,Gorgonzola Telino,3
+10730,BONAP,Louisiana Fiery Hot Pepper Sauce,10
+10730,BONAP,Pavlova,15
+10731,CHOPS,Manjimup Dried Apples,30
+10731,CHOPS,Sir Rodney's Scones,40
+10732,BONAP,Lakkalikööri,20
+10733,BERGS,Filo Mix,25
+10733,BERGS,Rössle Sauerkraut,20
+10733,BERGS,Tofu,16
+10734,GOURL,Grandma's Boysenberry Spread,30
+10734,GOURL,Lakkalikööri,20
+10734,GOURL,Nord-Ost Matjeshering,15
+10735,LETSS,Original Frankfurter grüne Soße,2
+10735,LETSS,Sirop d'érable,20
+10736,HUNGO,Louisiana Fiery Hot Pepper Sauce,40
+10736,HUNGO,Rhönbräu Klosterbier,20
+10737,VINET,Jack's New England Clam Chowder,12
+10737,VINET,Konbu,4
+10738,SPECD,Pavlova,3
+10739,VINET,Filo Mix,18
+10739,VINET,Inlagd Sill,6
+10740,WHITC,Gnocchi di nonna Alice,14
+10740,WHITC,Rogede sild,40
+10740,WHITC,Rössle Sauerkraut,5
+10740,WHITC,Steeleye Stout,35
+10741,AROUT,Chang,15
+10742,BOTTM,Aniseed Syrup,20
+10742,BOTTM,Camembert Pierrot,50
+10742,BOTTM,Mozzarella di Giovanni,35
+10743,AROUT,Spegesild,28
+10744,VAFFE,Boston Crab Meat,50
+10745,QUICK,Carnarvon Tigers,24
+10745,QUICK,Gula Malacca,16
+10745,QUICK,Mozzarella di Giovanni,7
+10745,QUICK,Raclette Courdavault,45
+10746,CHOPS,Gudbrandsdalsost,40
+10746,CHOPS,Konbu,6
+10746,CHOPS,Singaporean Hokkien Fried Mee,28
+10746,CHOPS,Tarte au sucre,9
+10747,PICCO,Gorgonzola Telino,8
+10747,PICCO,Gudbrandsdalsost,30
+10747,PICCO,Jack's New England Clam Chowder,35
+10747,PICCO,Vegie-spread,9
+10748,SAVEA,Boston Crab Meat,40
+10748,SAVEA,Gnocchi di nonna Alice,28
+10748,SAVEA,Tunnbröd,44
+10749,ISLAT,Gnocchi di nonna Alice,15
+10749,ISLAT,Lakkalikööri,10
+10749,ISLAT,Raclette Courdavault,6
+10750,WARTH,Raclette Courdavault,25
+10750,WARTH,Rogede sild,40
+10750,WARTH,Tofu,5
+10751,RICSU,Gumbär Gummibärchen,12
+10751,RICSU,Nord-Ost Matjeshering,30
+10751,RICSU,Röd Kaviar,15
+10751,RICSU,Valkoinen suklaa,20
+10752,NORTS,Chai,8
+10752,NORTS,Gudbrandsdalsost,3
+10753,FRANS,Longlife Tofu,5
+10753,FRANS,Rogede sild,4
+10754,MAGAA,Boston Crab Meat,3
+10755,BONAP,Gnocchi di nonna Alice,30
+10755,BONAP,Gudbrandsdalsost,25
+10755,BONAP,Ravioli Angelo,14
+10755,BONAP,Zaanse koeken,30
+10756,SPLIR,Carnarvon Tigers,21
+10756,SPLIR,Gudbrandsdalsost,20
+10756,SPLIR,Inlagd Sill,20
+10756,SPLIR,Scottish Longbreads,6
+10757,SAVEA,Raclette Courdavault,7
+10757,SAVEA,Sasquatch Ale,30
+10757,SAVEA,Tarte au sucre,30
+10757,SAVEA,Wimmers gute Semmelknödel,24
+10758,RICSU,Filo Mix,60
+10758,RICSU,Gumbär Gummibärchen,20
+10758,RICSU,Outback Lager,40
+10759,ANATR,Mascarpone Fabioli,10
+10760,MAISD,Ipoh Coffee,30
+10760,MAISD,NuNuCa Nuß-Nougat-Creme,12
+10760,MAISD,Schoggi Schokolade,40
+10761,RATTC,NuNuCa Nuß-Nougat-Creme,35
+10761,RATTC,Rhönbräu Klosterbier,18
+10762,FOLKO,Chartreuse verte,16
+10762,FOLKO,Gnocchi di nonna Alice,60
+10762,FOLKO,Manjimup Dried Apples,28
+10762,FOLKO,Zaanse koeken,30
+10763,FOLIG,Guaraná Fantástica,20
+10763,FOLIG,Gustaf's Knäckebröd,6
+10763,FOLIG,Sir Rodney's Scones,40
+10764,ERNSH,Aniseed Syrup,20
+10764,ERNSH,Chartreuse verte,130
+10765,QUICK,Louisiana Fiery Hot Pepper Sauce,80
+10766,OTTIK,Chang,40
+10766,OTTIK,Scottish Longbreads,40
+10766,OTTIK,Uncle Bob's Organic Dried Pears,35
+10767,SUPRD,Singaporean Hokkien Fried Mee,2
+10768,AROUT,Camembert Pierrot,15
+10768,AROUT,Flotemysost,12
+10768,AROUT,Gorgonzola Telino,50
+10768,AROUT,Gustaf's Knäckebröd,4
+10769,VAFFE,Filo Mix,15
+10769,VAFFE,Jack's New England Clam Chowder,30
+10769,VAFFE,Sirop d'érable,20
+10769,VAFFE,Tarte au sucre,15
+10770,HANAR,Queso Cabrales,15
+10771,ERNSH,Flotemysost,16
+10772,LEHMS,Raclette Courdavault,25
+10772,LEHMS,Thüringer Rostbratwurst,18
+10773,ERNSH,Alice Mutton,33
+10773,ERNSH,Gorgonzola Telino,70
+10773,ERNSH,Rhönbräu Klosterbier,7
+10774,FOLKO,Gorgonzola Telino,2
+10774,FOLKO,Louisiana Hot Spiced Okra,50
+10775,THECR,Ikura,6
+10775,THECR,Laughing Lumberjack Lager,3
+10776,ERNSH,Gorgonzola Telino,16
+10776,ERNSH,Manjimup Dried Apples,120
+10776,ERNSH,Rogede sild,27
+10776,ERNSH,Singaporean Hokkien Fried Mee,12
+10777,GOURL,Singaporean Hokkien Fried Mee,20
+10778,BERGS,Jack's New England Clam Chowder,10
+10779,MORGK,Pavlova,20
+10779,MORGK,Tarte au sucre,20
+10780,LILAS,Original Frankfurter grüne Soße,15
+10780,LILAS,Outback Lager,35
+10781,WARTH,Gnocchi di nonna Alice,20
+10781,WARTH,Longlife Tofu,35
+10781,WARTH,Tourtière,3
+10782,CACTU,Gorgonzola Telino,1
+10783,HANAR,Côte de Blaye,5
+10783,HANAR,Gorgonzola Telino,10
+10784,MAGAA,Chartreuse verte,2
+10784,MAGAA,Inlagd Sill,30
+10784,MAGAA,Mozzarella di Giovanni,30
+10785,GROSR,Ikura,10
+10785,GROSR,Rhönbräu Klosterbier,10
+10786,QUEEN,Nord-Ost Matjeshering,15
+10786,QUEEN,Northwoods Cranberry Sauce,30
+10786,QUEEN,Rhönbräu Klosterbier,42
+10787,LAMAI,Chang,15
+10787,LAMAI,Thüringer Rostbratwurst,20
+10788,QUICK,Rhönbräu Klosterbier,40
+10788,QUICK,Teatime Chocolate Biscuits,50
+10789,FOLIG,Carnarvon Tigers,30
+10789,FOLIG,Scottish Longbreads,18
+10789,FOLIG,Steeleye Stout,15
+10789,FOLIG,Vegie-spread,30
+10790,GOURL,Gnocchi di nonna Alice,20
+10790,GOURL,Uncle Bob's Organic Dried Pears,3
+10791,FRANK,Jack's New England Clam Chowder,20
+10791,FRANK,Thüringer Rostbratwurst,14
+10792,WOLZA,Chang,10
+10792,WOLZA,Scottish Longbreads,15
+10792,WOLZA,Tourtière,3
+10793,AROUT,Filo Mix,8
+10793,AROUT,Jack's New England Clam Chowder,14
+10794,QUEDE,Tofu,15
+10794,QUEDE,Tourtière,6
+10795,ERNSH,Alice Mutton,35
+10795,ERNSH,Pavlova,65
+10796,HILAA,Gudbrandsdalsost,24
+10796,HILAA,Gula Malacca,10
+10796,HILAA,Gumbär Gummibärchen,21
+10796,HILAA,Wimmers gute Semmelknödel,35
+10797,DRACD,Queso Cabrales,20
+10798,ISLAT,Mozzarella di Giovanni,10
+10798,ISLAT,Tarte au sucre,2
+10799,KOENE,Guaraná Fantástica,20
+10799,KOENE,Konbu,20
+10799,KOENE,Raclette Courdavault,25
+10800,SEVES,Manjimup Dried Apples,10
+10800,SEVES,Queso Cabrales,50
+10800,SEVES,Tourtière,7
+10801,BOLID,Alice Mutton,40
+10801,BOLID,Thüringer Rostbratwurst,20
+10802,SIMOB,Manjimup Dried Apples,30
+10802,SIMOB,Nord-Ost Matjeshering,25
+10802,SIMOB,Pâté chinois,60
+10802,SIMOB,Tarte au sucre,5
+10803,WELLI,NuNuCa Nuß-Nougat-Creme,15
+10803,WELLI,Raclette Courdavault,15
+10803,WELLI,Teatime Chocolate Biscuits,24
+10804,SEVES,Ikura,36
+10804,SEVES,Maxilaku,4
+10804,SEVES,Rössle Sauerkraut,24
+10805,THEBI,Côte de Blaye,10
+10805,THEBI,Sasquatch Ale,10
+10806,VICTE,Chang,20
+10806,VICTE,Longlife Tofu,15
+10806,VICTE,Louisiana Fiery Hot Pepper Sauce,2
+10807,FRANS,Boston Crab Meat,1
+10808,OLDWO,Gnocchi di nonna Alice,20
+10808,OLDWO,Lakkalikööri,50
+10809,WELLI,Filo Mix,20
+10810,LAUGB,Konbu,7
+10810,LAUGB,NuNuCa Nuß-Nougat-Creme,5
+10810,LAUGB,Outback Lager,5
+10811,LINOD,Boston Crab Meat,30
+10811,LINOD,Teatime Chocolate Biscuits,15
+10811,LINOD,Tunnbröd,18
+10812,REGGC,Gorgonzola Telino,16
+10812,REGGC,Mozzarella di Giovanni,40
+10812,REGGC,Original Frankfurter grüne Soße,20
+10813,RICAR,Chang,12
+10813,RICAR,Spegesild,35
+10814,VICTE,Chocolade,8
+10814,VICTE,Ipoh Coffee,20
+10814,VICTE,Jack's New England Clam Chowder,20
+10814,VICTE,Sirop d'érable,30
+10815,SAVEA,Geitost,16
+10816,GREAL,Côte de Blaye,30
+10816,GREAL,Tarte au sucre,20
+10817,KOENE,Boston Crab Meat,60
+10817,KOENE,Côte de Blaye,30
+10817,KOENE,Gumbär Gummibärchen,40
+10817,KOENE,Tarte au sucre,25
+10818,MAGAA,Jack's New England Clam Chowder,20
+10818,MAGAA,Mascarpone Fabioli,20
+10819,CACTU,Ipoh Coffee,7
+10819,CACTU,Rhönbräu Klosterbier,20
+10820,RATTC,Gnocchi di nonna Alice,30
+10821,SPLIR,Manjimup Dried Apples,6
+10821,SPLIR,Steeleye Stout,20
+10822,TRAIH,Outback Lager,6
+10822,TRAIH,Tarte au sucre,3
+10823,LILAS,Original Frankfurter grüne Soße,15
+10823,LILAS,Queso Cabrales,20
+10823,LILAS,Raclette Courdavault,40
+10823,LILAS,Ravioli Angelo,15
+10824,FOLKO,Jack's New England Clam Chowder,12
+10824,FOLKO,Outback Lager,9
+10825,DRACD,Gumbär Gummibärchen,12
+10825,DRACD,Perth Pasties,20
+10826,BLONP,Gorgonzola Telino,35
+10826,BLONP,Ravioli Angelo,15
+10827,BONAP,Chartreuse verte,21
+10827,BONAP,Ikura,15
+10828,RANCH,Côte de Blaye,2
+10828,RANCH,Sir Rodney's Marmalade,5
+10829,ISLAT,Camembert Pierrot,21
+10829,ISLAT,Chang,10
+10829,ISLAT,Konbu,10
+10829,ISLAT,Northwoods Cranberry Sauce,20
+10830,TRADH,Camembert Pierrot,30
+10830,TRADH,Chartreuse verte,28
+10830,TRADH,Grandma's Boysenberry Spread,6
+10830,TRADH,Scottish Longbreads,24
+10831,SANTG,Côte de Blaye,8
+10831,SANTG,Ipoh Coffee,9
+10831,SANTG,Steeleye Stout,8
+10831,SANTG,Teatime Chocolate Biscuits,2
+10832,LAMAI,Gula Malacca,16
+10832,LAMAI,Konbu,3
+10832,LAMAI,NuNuCa Nuß-Nougat-Creme,10
+10832,LAMAI,Wimmers gute Semmelknödel,3
+10833,OTTIK,Gorgonzola Telino,9
+10833,OTTIK,Perth Pasties,9
+10833,OTTIK,Uncle Bob's Organic Dried Pears,20
+10834,TRADH,Nord-Ost Matjeshering,20
+10834,TRADH,Thüringer Rostbratwurst,8
+10835,ALFKI,Original Frankfurter grüne Soße,2
+10835,ALFKI,Raclette Courdavault,15
+10836,ERNSH,Camembert Pierrot,60
+10836,ERNSH,Gustaf's Knäckebröd,52
+10836,ERNSH,Ravioli Angelo,24
+10836,ERNSH,Steeleye Stout,6
+10836,ERNSH,Wimmers gute Semmelknödel,30
+10837,BERGS,Boston Crab Meat,25
+10837,BERGS,Konbu,6
+10837,BERGS,Lakkalikööri,21
+10837,BERGS,Zaanse koeken,40
+10838,LINOD,Carnarvon Tigers,25
+10838,LINOD,Chai,4
+10838,LINOD,Inlagd Sill,50
+10839,TRADH,Escargots de Bourgogne,30
+10839,TRADH,Mozzarella di Giovanni,15
+10840,LINOD,Chartreuse verte,10
+10840,LINOD,NuNuCa Nuß-Nougat-Creme,6
+10841,SUPRD,Gnocchi di nonna Alice,30
+10841,SUPRD,Ikura,16
+10841,SUPRD,Original Frankfurter grüne Soße,15
+10841,SUPRD,Raclette Courdavault,50
+10842,TORTU,Ipoh Coffee,5
+10842,TORTU,Outback Lager,12
+10842,TORTU,Queso Cabrales,15
+10842,TORTU,Scottish Longbreads,20
+10843,VICTE,Manjimup Dried Apples,4
+10844,PICCO,Gustaf's Knäckebröd,35
+10845,QUICK,Escargots de Bourgogne,60
+10845,QUICK,Singaporean Hokkien Fried Mee,42
+10845,QUICK,Steeleye Stout,25
+10845,QUICK,Tunnbröd,70
+10845,QUICK,Wimmers gute Semmelknödel,48
+10846,SUPRD,Chef Anton's Cajun Seasoning,21
+10846,SUPRD,Longlife Tofu,20
+10846,SUPRD,Outback Lager,30
+10847,SAVEA,Camembert Pierrot,45
+10847,SAVEA,Chai,80
+10847,SAVEA,Flotemysost,55
+10847,SAVEA,Gravad lax,60
+10847,SAVEA,Rogede sild,36
+10847,SAVEA,Teatime Chocolate Biscuits,12
+10848,CONSH,Chef Anton's Gumbo Mix,30
+10848,CONSH,Mishi Kobe Niku,3
+10849,KOENE,Aniseed Syrup,49
+10849,KOENE,Gumbär Gummibärchen,18
+10850,VICTE,Geitost,4
+10850,VICTE,NuNuCa Nuß-Nougat-Creme,20
+10850,VICTE,Outback Lager,30
+10851,RICAR,Chang,5
+10851,RICAR,NuNuCa Nuß-Nougat-Creme,10
+10851,RICAR,Raclette Courdavault,42
+10851,RICAR,Ravioli Angelo,10
+10852,RATTC,Alice Mutton,6
+10852,RATTC,Chang,15
+10852,RATTC,Tarte au sucre,50
+10853,BLAUS,Carnarvon Tigers,10
+10854,ERNSH,Ikura,100
+10854,ERNSH,Konbu,65
+10855,OLDWO,Gnocchi di nonna Alice,24
+10855,OLDWO,Gorgonzola Telino,14
+10855,OLDWO,Louisiana Fiery Hot Pepper Sauce,15
+10855,OLDWO,Pavlova,50
+10856,ANTON,Chang,20
+10856,ANTON,Singaporean Hokkien Fried Mee,20
+10857,BERGS,Aniseed Syrup,30
+10857,BERGS,Gumbär Gummibärchen,35
+10857,BERGS,Thüringer Rostbratwurst,10
+10858,LACOR,Outback Lager,4
+10858,LACOR,Schoggi Schokolade,10
+10858,LACOR,Uncle Bob's Organic Dried Pears,5
+10859,FRANK,Guaraná Fantástica,40
+10859,FRANK,Tourtière,35
+10859,FRANK,Wimmers gute Semmelknödel,30
+10860,FRANR,Lakkalikööri,20
+10860,FRANR,Manjimup Dried Apples,3
+10861,WHITC,Alice Mutton,42
+10861,WHITC,Carnarvon Tigers,20
+10861,WHITC,Geitost,35
+10861,WHITC,Sir Rodney's Scones,40
+10861,WHITC,Tarte au sucre,3
+10862,LEHMS,Filo Mix,8
+10862,LEHMS,Queso Cabrales,25
+10863,HILAA,Chai,20
+10863,HILAA,Escargots de Bourgogne,12
+10864,AROUT,Laughing Lumberjack Lager,15
+10864,AROUT,Steeleye Stout,4
+10865,QUICK,Chartreuse verte,80
+10865,QUICK,Côte de Blaye,60
+10866,BERGS,Chang,21
+10866,BERGS,Guaraná Fantástica,6
+10866,BERGS,Nord-Ost Matjeshering,40
+10867,LONEP,Perth Pasties,3
+10868,QUEEN,Gumbär Gummibärchen,20
+10868,QUEEN,Maxilaku,42
+10868,QUEEN,Steeleye Stout,30
+10869,SEVES,Chai,40
+10869,SEVES,Queso Cabrales,10
+10869,SEVES,Scottish Longbreads,20
+10869,SEVES,Tunnbröd,50
+10870,WOLZA,Manjimup Dried Apples,2
+10870,WOLZA,Steeleye Stout,3
+10871,BONAP,Alice Mutton,16
+10871,BONAP,Grandma's Boysenberry Spread,50
+10871,BONAP,Pavlova,12
+10872,GODOS,Louisiana Fiery Hot Pepper Sauce,21
+10872,GODOS,Pâté chinois,10
+10872,GODOS,Tarte au sucre,20
+10872,GODOS,Wimmers gute Semmelknödel,15
+10873,WILMK,Rössle Sauerkraut,3
+10873,WILMK,Sir Rodney's Scones,20
+10874,GODOS,Ikura,10
+10875,BERGS,Maxilaku,15
+10875,BERGS,Teatime Chocolate Biscuits,25
+10875,BERGS,Zaanse koeken,21
+10876,BONAP,Spegesild,21
+10876,BONAP,Wimmers gute Semmelknödel,20
+10877,RICAR,Carnarvon Tigers,25
+10877,RICAR,Pavlova,30
+10878,QUICK,Sir Rodney's Marmalade,20
+10879,WILMK,Boston Crab Meat,12
+10879,WILMK,Lakkalikööri,10
+10879,WILMK,Louisiana Fiery Hot Pepper Sauce,10
+10880,FOLKO,Outback Lager,50
+10880,FOLKO,Sirop d'érable,30
+10880,FOLKO,Tunnbröd,30
+10881,CACTU,Röd Kaviar,10
+10882,SAVEA,Maxilaku,20
+10882,SAVEA,Singaporean Hokkien Fried Mee,25
+10882,SAVEA,Tourtière,32
+10883,LONEP,Guaraná Fantástica,8
+10884,LETSS,Gnocchi di nonna Alice,21
+10884,LETSS,Louisiana Fiery Hot Pepper Sauce,12
+10884,LETSS,Sir Rodney's Scones,40
+10885,SUPRD,Chang,20
+10885,SUPRD,Guaraná Fantástica,12
+10885,SUPRD,Original Frankfurter grüne Soße,25
+10885,SUPRD,Outback Lager,30
+10886,HANAR,Gorgonzola Telino,35
+10886,HANAR,Ikura,70
+10886,HANAR,Original Frankfurter grüne Soße,40
+10887,GALED,NuNuCa Nuß-Nougat-Creme,5
+10888,GODOS,Chang,20
+10888,GODOS,Scottish Longbreads,18
+10889,RATTC,Côte de Blaye,40
+10889,RATTC,Queso Cabrales,40
+10890,DUMON,Alice Mutton,15
+10890,DUMON,Jack's New England Clam Chowder,14
+10890,DUMON,Sasquatch Ale,10
+10891,LEHMS,Nord-Ost Matjeshering,15
+10892,MAISD,Raclette Courdavault,40
+10893,KOENE,Guaraná Fantástica,10
+10893,KOENE,Inlagd Sill,20
+10893,KOENE,Nord-Ost Matjeshering,35
+10893,KOENE,Northwoods Cranberry Sauce,30
+10893,KOENE,Thüringer Rostbratwurst,24
+10894,SAVEA,Gudbrandsdalsost,50
+10894,SAVEA,Konbu,28
+10894,SAVEA,Rhönbräu Klosterbier,120
+10895,ERNSH,Boston Crab Meat,91
+10895,ERNSH,Camembert Pierrot,100
+10895,ERNSH,Chartreuse verte,45
+10895,ERNSH,Guaraná Fantástica,110
+10896,MAISD,Gnocchi di nonna Alice,16
+10896,MAISD,Rogede sild,15
+10897,HUNGO,Nord-Ost Matjeshering,36
+10897,HUNGO,Thüringer Rostbratwurst,80
+10898,OCEAN,Konbu,5
+10899,LILAS,Chartreuse verte,8
+10900,WELLI,Outback Lager,3
+10901,HILAA,Flotemysost,30
+10901,HILAA,Jack's New England Clam Chowder,30
+10902,FOLKO,Pâté chinois,30
+10902,FOLKO,Tarte au sucre,6
+10903,HANAR,Konbu,40
+10903,HANAR,Louisiana Fiery Hot Pepper Sauce,21
+10903,HANAR,Scottish Longbreads,20
+10904,WHITC,Escargots de Bourgogne,15
+10904,WHITC,Tarte au sucre,35
+10905,WELLI,Chai,20
+10906,WOLZA,Sirop d'érable,15
+10907,SPECD,Rhönbräu Klosterbier,14
+10908,REGGC,Filo Mix,14
+10908,REGGC,Uncle Bob's Organic Dried Pears,20
+10909,SANTG,Jack's New England Clam Chowder,5
+10909,SANTG,Pavlova,15
+10909,SANTG,Uncle Bob's Organic Dried Pears,12
+10910,WILMK,Maxilaku,10
+10910,WILMK,Sirop d'érable,5
+10910,WILMK,Teatime Chocolate Biscuits,12
+10911,GODOS,Alice Mutton,12
+10911,GODOS,Chai,10
+10911,GODOS,Laughing Lumberjack Lager,15
+10912,HUNGO,Queso Cabrales,40
+10912,HUNGO,Thüringer Rostbratwurst,60
+10913,QUEEN,Chef Anton's Cajun Seasoning,30
+10913,QUEEN,Escargots de Bourgogne,15
+10913,QUEEN,Geitost,40
+10914,QUEEN,Flotemysost,25
+10915,TORTU,Alice Mutton,10
+10915,TORTU,Geitost,30
+10915,TORTU,Tourtière,10
+10916,RANCH,Mascarpone Fabioli,6
+10916,RANCH,Pavlova,6
+10916,RANCH,Ravioli Angelo,20
+10917,ROMEY,Camembert Pierrot,10
+10917,ROMEY,Nord-Ost Matjeshering,1
+10918,BOTTM,Camembert Pierrot,25
+10918,BOTTM,Chai,60
+10919,LINOD,Boston Crab Meat,20
+10919,LINOD,NuNuCa Nuß-Nougat-Creme,24
+10919,LINOD,Pavlova,24
+10920,AROUT,Valkoinen suklaa,24
+10921,VAFFE,Steeleye Stout,10
+10921,VAFFE,Vegie-spread,40
+10922,HANAR,Alice Mutton,15
+10922,HANAR,Guaraná Fantástica,35
+10923,LAMAI,Ipoh Coffee,10
+10923,LAMAI,Laughing Lumberjack Lager,24
+10923,LAMAI,Singaporean Hokkien Fried Mee,10
+10924,BERGS,Ikura,20
+10924,BERGS,Rhönbräu Klosterbier,6
+10924,BERGS,Rössle Sauerkraut,30
+10925,HANAR,Filo Mix,12
+10925,HANAR,Inlagd Sill,25
+10926,ANATR,Konbu,10
+10926,ANATR,Mozzarella di Giovanni,10
+10926,ANATR,Queso Cabrales,2
+10926,ANATR,Teatime Chocolate Biscuits,7
+10927,LACOR,Filo Mix,5
+10927,LACOR,Lakkalikööri,20
+10927,LACOR,Sir Rodney's Marmalade,5
+10928,GALED,Lakkalikööri,5
+10928,GALED,Zaanse koeken,5
+10929,FRANK,Original Frankfurter grüne Soße,15
+10929,FRANK,Rhönbräu Klosterbier,49
+10929,FRANK,Sir Rodney's Scones,60
+10930,SUPRD,Escargots de Bourgogne,30
+10930,SUPRD,Pâté chinois,25
+10930,SUPRD,Schoggi Schokolade,25
+10930,SUPRD,Sir Rodney's Scones,36
+10931,RICSU,Konbu,42
+10931,RICSU,Ravioli Angelo,30
+10932,BONAP,Mozzarella di Giovanni,16
+10932,BONAP,Pavlova,30
+10932,BONAP,Rhönbräu Klosterbier,20
+10932,BONAP,Tarte au sucre,14
+10933,ISLAT,Perth Pasties,2
+10933,ISLAT,Sirop d'érable,30
+10934,LEHMS,Grandma's Boysenberry Spread,20
+10935,WELLI,Carnarvon Tigers,4
+10935,WELLI,Chai,21
+10935,WELLI,Tunnbröd,8
+10936,GREAL,Inlagd Sill,30
+10937,CACTU,Rössle Sauerkraut,8
+10937,CACTU,Sasquatch Ale,20
+10938,QUICK,Camembert Pierrot,49
+10938,QUICK,Flotemysost,35
+10938,QUICK,Ipoh Coffee,24
+10938,QUICK,Konbu,20
+10939,MAGAA,Chang,10
+10939,MAGAA,Laughing Lumberjack Lager,40
+10940,BONAP,Konbu,20
+10940,BONAP,Uncle Bob's Organic Dried Pears,8
+10941,SAVEA,Gorgonzola Telino,44
+10941,SAVEA,Mozzarella di Giovanni,50
+10941,SAVEA,Scottish Longbreads,80
+10941,SAVEA,Tarte au sucre,30
+10942,REGGC,Maxilaku,28
+10943,BSBEV,Gustaf's Knäckebröd,21
+10943,BSBEV,Konbu,15
+10943,BSBEV,Spegesild,15
+10944,BOTTM,Gnocchi di nonna Alice,18
+10944,BOTTM,Gula Malacca,18
+10944,BOTTM,Queso Cabrales,5
+10945,MORGK,Gorgonzola Telino,10
+10945,MORGK,Konbu,20
+10946,VAFFE,Guaraná Fantástica,25
+10946,VAFFE,Ikura,25
+10946,VAFFE,Original Frankfurter grüne Soße,40
+10947,BSBEV,Raclette Courdavault,4
+10948,GODOS,Manjimup Dried Apples,40
+10948,GODOS,Pâté chinois,4
+10948,GODOS,Valkoinen suklaa,9
+10949,BOTTM,Alice Mutton,6
+10949,BOTTM,Grandma's Boysenberry Spread,12
+10949,BOTTM,Ikura,30
+10949,BOTTM,Tarte au sucre,60
+10950,MAGAA,Chef Anton's Cajun Seasoning,5
+10951,RICSU,Geitost,15
+10951,RICSU,Jack's New England Clam Chowder,6
+10951,RICSU,Rhönbräu Klosterbier,50
+10952,ALFKI,Grandma's Boysenberry Spread,16
+10952,ALFKI,Rössle Sauerkraut,2
+10953,AROUT,Gorgonzola Telino,50
+10953,AROUT,Sir Rodney's Marmalade,50
+10954,LINOD,Camembert Pierrot,24
+10954,LINOD,Gorgonzola Telino,25
+10954,LINOD,Pavlova,28
+10954,LINOD,Rogede sild,30
+10955,FOLKO,Rhönbräu Klosterbier,12
+10956,BLAUS,Manjimup Dried Apples,8
+10956,BLAUS,Sir Rodney's Scones,12
+10956,BLAUS,Zaanse koeken,14
+10957,HILAA,Nord-Ost Matjeshering,30
+10957,HILAA,Steeleye Stout,40
+10957,HILAA,Wimmers gute Semmelknödel,8
+10958,OCEAN,Chef Anton's Gumbo Mix,20
+10958,OCEAN,Mozzarella di Giovanni,5
+10958,OCEAN,Uncle Bob's Organic Dried Pears,6
+10959,GOURL,Rhönbräu Klosterbier,20
+10960,HILAA,Guaraná Fantástica,10
+10960,HILAA,Jack's New England Clam Chowder,24
+10961,QUEEN,Filo Mix,6
+10961,QUEEN,Lakkalikööri,60
+10962,QUICK,Gudbrandsdalsost,9
+10962,QUICK,Konbu,77
+10962,QUICK,Lakkalikööri,44
+10962,QUICK,Perth Pasties,20
+10962,QUICK,Uncle Bob's Organic Dried Pears,45
+10963,FURIB,Camembert Pierrot,2
+10964,SPECD,Carnarvon Tigers,6
+10964,SPECD,Côte de Blaye,5
+10964,SPECD,Gudbrandsdalsost,10
+10965,OLDWO,Manjimup Dried Apples,16
+10966,CHOPS,Gnocchi di nonna Alice,12
+10966,CHOPS,Gravad lax,8
+10966,CHOPS,Tarte au sucre,12
+10967,TOMSP,Maxilaku,40
+10967,TOMSP,Teatime Chocolate Biscuits,12
+10968,ERNSH,Guaraná Fantástica,30
+10968,ERNSH,Queso Manchego La Pastora,30
+10968,ERNSH,Wimmers gute Semmelknödel,4
+10969,COMMI,Spegesild,9
+10970,BOLID,Filo Mix,40
+10971,FRANR,Thüringer Rostbratwurst,14
+10972,LACOR,Alice Mutton,6
+10972,LACOR,Geitost,7
+10973,LACOR,Gumbär Gummibärchen,5
+10973,LACOR,Jack's New England Clam Chowder,6
+10973,LACOR,Rhönbräu Klosterbier,10
+10974,SPLIR,Vegie-spread,10
+10975,BOTTM,Northwoods Cranberry Sauce,16
+10975,BOTTM,Rhönbräu Klosterbier,10
+10976,HILAA,Rössle Sauerkraut,20
+10977,FOLKO,Chartreuse verte,30
+10977,FOLKO,Manjimup Dried Apples,10
+10977,FOLKO,Vegie-spread,20
+10977,FOLKO,Zaanse koeken,30
+10978,MAISD,Boston Crab Meat,10
+10978,MAISD,Gula Malacca,6
+10978,MAISD,Northwoods Cranberry Sauce,20
+10978,MAISD,Sir Rodney's Scones,40
+10979,ERNSH,Gorgonzola Telino,24
+10979,ERNSH,Guaraná Fantástica,80
+10979,ERNSH,Queso Manchego La Pastora,20
+10979,ERNSH,Schoggi Schokolade,30
+10979,ERNSH,Uncle Bob's Organic Dried Pears,18
+10979,ERNSH,Vegie-spread,35
+10980,FOLKO,Rhönbräu Klosterbier,40
+10981,HANAR,Côte de Blaye,60
+10982,BOTTM,Ipoh Coffee,9
+10982,BOTTM,Uncle Bob's Organic Dried Pears,20
+10983,SAVEA,Konbu,84
+10983,SAVEA,Ravioli Angelo,15
+10984,SAVEA,Guaraná Fantástica,20
+10984,SAVEA,Inlagd Sill,40
+10984,SAVEA,Pavlova,55
+10985,HUNGO,Carnarvon Tigers,8
+10985,HUNGO,Mascarpone Fabioli,35
+10985,HUNGO,Pavlova,36
+10986,OCEAN,Lakkalikööri,10
+10986,OCEAN,Original Frankfurter grüne Soße,15
+10986,OCEAN,Queso Cabrales,30
+10986,OCEAN,Sir Rodney's Marmalade,15
+10987,EASTC,Ipoh Coffee,6
+10987,EASTC,Mozzarella di Giovanni,20
+10987,EASTC,Uncle Bob's Organic Dried Pears,60
+10988,RATTC,Tarte au sucre,40
+10988,RATTC,Uncle Bob's Organic Dried Pears,60
+10989,QUEDE,Grandma's Boysenberry Spread,40
+10989,QUEDE,Jack's New England Clam Chowder,4
+10989,QUEDE,Queso Cabrales,15
+10990,ERNSH,Pâté chinois,65
+10990,ERNSH,Sasquatch Ale,60
+10990,ERNSH,Sir Rodney's Scones,65
+10990,ERNSH,Sirop d'érable,66
+10991,QUICK,Chang,50
+10991,QUICK,Lakkalikööri,90
+10991,QUICK,Outback Lager,20
+10992,THEBI,Mozzarella di Giovanni,2
+10993,FOLKO,Jack's New England Clam Chowder,35
+10993,FOLKO,Thüringer Rostbratwurst,50
+10994,VAFFE,Raclette Courdavault,18
+10995,PERIC,Camembert Pierrot,4
+10995,PERIC,Manjimup Dried Apples,20
+10996,QUICK,Singaporean Hokkien Fried Mee,40
+10997,LILAS,Filo Mix,20
+10997,LILAS,Mascarpone Fabioli,50
+10997,LILAS,Spegesild,20
+10998,WOLZA,Guaraná Fantástica,12
+10998,WOLZA,Longlife Tofu,20
+10998,WOLZA,Rhönbräu Klosterbier,30
+10998,WOLZA,Sirop d'érable,7
+10999,OTTIK,Jack's New England Clam Chowder,20
+10999,OTTIK,Manjimup Dried Apples,15
+10999,OTTIK,Original Frankfurter grüne Soße,21
+11000,RATTC,Chef Anton's Cajun Seasoning,25
+11000,RATTC,Guaraná Fantástica,30
+11000,RATTC,Original Frankfurter grüne Soße,30
+11001,FOLKO,Gustaf's Knäckebröd,25
+11001,FOLKO,Pâté chinois,6
+11001,FOLKO,Spegesild,25
+11001,FOLKO,Uncle Bob's Organic Dried Pears,60
+11002,SAVEA,Konbu,56
+11002,SAVEA,Pâté chinois,40
+11002,SAVEA,Singaporean Hokkien Fried Mee,24
+11002,SAVEA,Steeleye Stout,15
+11003,THECR,Boston Crab Meat,10
+11003,THECR,Chai,4
+11003,THECR,Filo Mix,10
+11004,MAISD,Gumbär Gummibärchen,6
+11004,MAISD,Lakkalikööri,6
+11005,WILMK,Chai,2
+11005,WILMK,Raclette Courdavault,10
+11006,GREAL,Chai,8
+11006,GREAL,Thüringer Rostbratwurst,2
+11007,PRINI,Northwoods Cranberry Sauce,30
+11007,PRINI,Singaporean Hokkien Fried Mee,14
+11007,PRINI,Thüringer Rostbratwurst,10
+11008,ERNSH,Flotemysost,21
+11008,ERNSH,Rössle Sauerkraut,70
+11008,ERNSH,Sasquatch Ale,90
+11009,GODOS,Camembert Pierrot,9
+11009,GODOS,Guaraná Fantástica,12
+11009,GODOS,Inlagd Sill,18
+11010,REGGC,Guaraná Fantástica,10
+11010,REGGC,Uncle Bob's Organic Dried Pears,20
+11011,ALFKI,Escargots de Bourgogne,40
+11011,ALFKI,Flotemysost,20
+11012,FRANK,Camembert Pierrot,36
+11012,FRANK,Flotemysost,60
+11012,FRANK,Teatime Chocolate Biscuits,50
+11013,ROMEY,Rogede sild,20
+11013,ROMEY,Scottish Longbreads,2
+11013,ROMEY,Singaporean Hokkien Fried Mee,4
+11013,ROMEY,Tunnbröd,10
+11014,LINOD,Jack's New England Clam Chowder,28
+11015,SANTG,Nord-Ost Matjeshering,15
+11015,SANTG,Original Frankfurter grüne Soße,18
+11016,AROUT,Gorgonzola Telino,15
+11016,AROUT,Inlagd Sill,16
+11017,ERNSH,Aniseed Syrup,25
+11017,ERNSH,Outback Lager,30
+11017,ERNSH,Raclette Courdavault,110
+11018,LONEP,Carnarvon Tigers,10
+11018,LONEP,Gnocchi di nonna Alice,5
+11018,LONEP,Queso Manchego La Pastora,20
+11019,RANCH,Maxilaku,2
+11019,RANCH,Spegesild,3
+11020,OTTIK,Ikura,24
+11021,QUICK,Chang,11
+11021,QUICK,Gumbär Gummibärchen,63
+11021,QUICK,Manjimup Dried Apples,44
+11021,QUICK,Mozzarella di Giovanni,35
+11021,QUICK,Sir Rodney's Marmalade,15
+11022,HANAR,Gudbrandsdalsost,30
+11022,HANAR,Teatime Chocolate Biscuits,35
+11023,BSBEV,Ipoh Coffee,30
+11023,BSBEV,Uncle Bob's Organic Dried Pears,4
+11024,EASTC,Flotemysost,50
+11024,EASTC,Geitost,30
+11024,EASTC,Gumbär Gummibärchen,12
+11024,EASTC,Louisiana Fiery Hot Pepper Sauce,21
+11025,WARTH,Chai,10
+11025,WARTH,Konbu,20
+11026,FRANS,Carnarvon Tigers,8
+11026,FRANS,Manjimup Dried Apples,10
+11027,BOTTM,Guaraná Fantástica,30
+11027,BOTTM,Tarte au sucre,21
+11028,KOENE,Pâté chinois,35
+11028,KOENE,Raclette Courdavault,24
+11029,CHOPS,Gnocchi di nonna Alice,20
+11029,CHOPS,Vegie-spread,12
+11030,SAVEA,Chang,100
+11030,SAVEA,Chef Anton's Gumbo Mix,70
+11030,SAVEA,Raclette Courdavault,100
+11030,SAVEA,Thüringer Rostbratwurst,60
+11031,SAVEA,Chai,45
+11031,SAVEA,Flotemysost,16
+11031,SAVEA,Guaraná Fantástica,21
+11031,SAVEA,Konbu,80
+11031,SAVEA,Wimmers gute Semmelknödel,20
+11032,WHITC,Côte de Blaye,25
+11032,WHITC,Inlagd Sill,35
+11032,WHITC,Raclette Courdavault,30
+11033,RICSU,Gudbrandsdalsost,36
+11033,RICSU,Perth Pasties,70
+11034,OLDWO,Gula Malacca,12
+11034,OLDWO,Sir Rodney's Scones,15
+11034,OLDWO,Sirop d'érable,6
+11035,SUPRD,Chai,10
+11035,SUPRD,Singaporean Hokkien Fried Mee,30
+11035,SUPRD,Steeleye Stout,60
+11035,SUPRD,Tourtière,10
+11036,DRACD,Konbu,7
+11036,DRACD,Raclette Courdavault,30
+11037,GODOS,Outback Lager,4
+11038,SUPRD,Boston Crab Meat,5
+11038,SUPRD,Filo Mix,2
+11038,SUPRD,Flotemysost,30
+11039,LINOD,Maxilaku,60
+11039,LINOD,Ravioli Angelo,28
+11039,LINOD,Rössle Sauerkraut,20
+11039,LINOD,Steeleye Stout,24
+11040,GREAL,Sir Rodney's Scones,20
+11041,CHOPS,Chang,30
+11041,CHOPS,Vegie-spread,30
+11042,COMMI,Gula Malacca,15
+11042,COMMI,Sirop d'érable,4
+11043,SPECD,Queso Cabrales,10
+11044,WOLZA,Tarte au sucre,12
+11045,BOTTM,Geitost,15
+11045,BOTTM,Manjimup Dried Apples,24
+11046,WANDK,Mascarpone Fabioli,15
+11046,WANDK,Queso Manchego La Pastora,20
+11046,WANDK,Steeleye Stout,18
+11047,EASTC,Chai,25
+11047,EASTC,Chef Anton's Gumbo Mix,30
+11048,BOTTM,Scottish Longbreads,42
+11049,GOURL,Chang,10
+11049,GOURL,Queso Manchego La Pastora,4
+11050,FOLKO,Lakkalikööri,50
+11051,LAMAI,Guaraná Fantástica,10
+11052,HANAR,Ipoh Coffee,30
+11052,HANAR,Sirop d'érable,10
+11053,PICCO,Carnarvon Tigers,35
+11053,PICCO,Mascarpone Fabioli,20
+11053,PICCO,Wimmers gute Semmelknödel,25
+11054,CACTU,Geitost,10
+11054,CACTU,Laughing Lumberjack Lager,20
+11055,HILAA,Guaraná Fantástica,15
+11055,HILAA,Manjimup Dried Apples,20
+11055,HILAA,NuNuCa Nuß-Nougat-Creme,15
+11055,HILAA,Ravioli Angelo,20
+11056,EASTC,Camembert Pierrot,50
+11056,EASTC,Pâté chinois,35
+11056,EASTC,Uncle Bob's Organic Dried Pears,40
+11057,NORTS,Outback Lager,3
+11058,BLAUS,Camembert Pierrot,21
+11058,BLAUS,Sir Rodney's Scones,3
+11058,BLAUS,Sirop d'érable,4
+11059,RICAR,Alice Mutton,12
+11059,RICAR,Camembert Pierrot,35
+11059,RICAR,Konbu,30
+11060,FRANS,Camembert Pierrot,4
+11060,FRANS,Original Frankfurter grüne Soße,10
+11061,GREAL,Camembert Pierrot,15
+11062,REGGC,Outback Lager,12
+11062,REGGC,Perth Pasties,10
+11063,HUNGO,Boston Crab Meat,40
+11063,HUNGO,Jack's New England Clam Chowder,30
+11063,HUNGO,Sasquatch Ale,30
+11064,SAVEA,Alice Mutton,77
+11064,SAVEA,Jack's New England Clam Chowder,12
+11064,SAVEA,Pâté chinois,4
+11064,SAVEA,Perth Pasties,25
+11064,SAVEA,Scottish Longbreads,55
+11065,LILAS,Nord-Ost Matjeshering,4
+11065,LILAS,Tourtière,20
+11066,WHITC,Pavlova,3
+11066,WHITC,Sasquatch Ale,35
+11066,WHITC,Teatime Chocolate Biscuits,42
+11067,DRACD,Jack's New England Clam Chowder,9
+11068,QUEEN,Ipoh Coffee,36
+11068,QUEEN,Original Frankfurter grüne Soße,28
+11068,QUEEN,Rössle Sauerkraut,8
+11069,TORTU,Chartreuse verte,20
+11070,LEHMS,Chai,40
+11070,LEHMS,Chang,20
+11070,LEHMS,Gorgonzola Telino,20
+11070,LEHMS,Pavlova,30
+11071,LILAS,Konbu,10
+11071,LILAS,Uncle Bob's Organic Dried Pears,15
+11072,ERNSH,Chang,8
+11072,ERNSH,Jack's New England Clam Chowder,40
+11072,ERNSH,Valkoinen suklaa,22
+11072,ERNSH,Wimmers gute Semmelknödel,130
+11073,PERIC,Guaraná Fantástica,20
+11073,PERIC,Queso Cabrales,10
+11074,SIMOB,Pavlova,14
+11075,RICSU,Chang,10
+11075,RICSU,Lakkalikööri,2
+11075,RICSU,Spegesild,30
+11076,BONAP,Grandma's Boysenberry Spread,20
+11076,BONAP,Teatime Chocolate Biscuits,10
+11076,BONAP,Tofu,20
+11077,RATTC,Aniseed Syrup,4
+11077,RATTC,Camembert Pierrot,2
+11077,RATTC,Chang,24
+11077,RATTC,Chartreuse verte,2
+11077,RATTC,Chef Anton's Cajun Seasoning,1
+11077,RATTC,Filo Mix,2
+11077,RATTC,Grandma's Boysenberry Spread,1
+11077,RATTC,Ikura,1
+11077,RATTC,Jack's New England Clam Chowder,3
+11077,RATTC,Konbu,4
+11077,RATTC,Louisiana Hot Spiced Okra,1
+11077,RATTC,Mascarpone Fabioli,1
+11077,RATTC,Northwoods Cranberry Sauce,2
+11077,RATTC,Original Frankfurter grüne Soße,2
+11077,RATTC,Pâté chinois,2
+11077,RATTC,Pavlova,2
+11077,RATTC,Queso Manchego La Pastora,2
+11077,RATTC,Rhönbräu Klosterbier,4
+11077,RATTC,Röd Kaviar,2
+11077,RATTC,Sir Rodney's Marmalade,1
+11077,RATTC,Spegesild,3
+11077,RATTC,Tofu,1
+11077,RATTC,Tunnbröd,2
+11077,RATTC,Uncle Bob's Organic Dried Pears,1
+11077,RATTC,Wimmers gute Semmelknödel,2
